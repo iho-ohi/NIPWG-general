@@ -1,19 +1,36 @@
-# NIPWG-general GitHub repository
+# NIPWG information and communication
 
 This repository contains general content and technical documentation needed by the Nautical Information Provision Working Group (NIPWG).
 This repository was established in April 2025, and aims to replace the old NIPWG WIKI-site, which was previously used.
 
-## NIPWG Product specifications
+NIPWG- related information is mainly found on the IHO website (including the registry), the IHO Portal and several Github repositories.
 
-## Published product specifications and release candidates in IHO registers
+## IHO Portal
+Meetings, Mwmberships and related notes and documents are handled in the IHO Portal. (Free registration needed.)
+
+https://portal.iho.int
+
+## IHO Website and IHO registry
+General information, including all published standards is found on the public website.
+
+https://www.iho.int
+
+https://registry.iho.int
+
+#### Published product specifications and release candidates in IHO registers
 All published product specifications (including 1.0.0 versions aimed for testing) are found in the IHO product specification register
 https://registry.iho.int/productspec/list.do
 
 Release candidates and versions within the approval process are found in the IHO product specification *testbed*- register
 https://registry.iho.int/testbed/list.do
 
-## Development versions in GitHub
-NIPWG uses GitHub repositories for technical documentation, specifications and issue tracking. 
+## IHO Github
+Technical data and issues are handled within several Github repositories.
+
+https://github.com/iho-ohi/NIPWG-general (this repository)
+
+## Product specification development in GitHub
+NIPWG uses GitHub repositories for technical documentation, specifications and issue tracking of specifications under development. 
 Separate repositories managed by NIPWG include those dedicated to up-to-date development versions and issue trackgin of product specifications are Product Sepcifications.
 
 ### S-122
