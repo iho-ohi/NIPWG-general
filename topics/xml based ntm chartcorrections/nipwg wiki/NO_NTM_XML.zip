@@ -1,0 +1,3208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NoticeToMarinerList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:noNamespaceSchemaLocation="C:\\Program Files (x86)\Norconsult Informasjonssystemer AS\\Efs Admin\\SetupFiles\\CommonNtmXml.xsd">
+  <languageISO639-3>EN</languageISO639-3>
+  <countryISO3166-1>NO</countryISO3166-1>
+  <producingAgencyS62>340</producingAgencyS62>
+  <creationDate>20.09.2019</creationDate>
+  <notices>
+    <notice>
+      <noticeIdentifier>
+        <noticeNumber>60623</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-03</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>Other</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts/>
+      <contents>
+        <content>
+          <textContent>
+            <chartRefs/>
+            <contentNumber>1</contentNumber>
+            <text>Chart no. 401 is published as a New Edition. This New Edition makes the existing edition (published in February 2019) obsolete. The Chart will not be printed, but is available as POD-Chart.</text>
+          </textContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <noticeIdentifier>
+        <noticeNumber>60622</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-03</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>Other</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts/>
+      <contents>
+        <content>
+          <textContent>
+            <chartRefs/>
+            <contentNumber>1</contentNumber>
+            <text>Chart no. 402 is published as a New Edition. This New Edition makes the existing edition (published in February 2019) obsolete. The Chart will not be printed, but is available as POD-Chart.</text>
+          </textContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <noticeIdentifier>
+        <noticeNumber>60621</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-03</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>Other</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts/>
+      <contents>
+        <content>
+          <textContent>
+            <chartRefs/>
+            <contentNumber>1</contentNumber>
+            <text>Chart no. 482 is published as a New Edition. This New Edition makes the existing edition (published in 2016) obsolete. The Chart will not be printed, but is available as POD-Chart.</text>
+          </textContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <noticeIdentifier>
+        <noticeNumber>60620</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-03</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>Other</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts/>
+      <contents>
+        <content>
+          <textContent>
+            <chartRefs/>
+            <contentNumber>1</contentNumber>
+            <text>Chart no. 19 is published as a New Edition. This New Edition makes the existing edition (published in 2018) obsolete. The Chart will not be printed, but is available as POD-Chart.</text>
+          </textContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Kristiansand</area>
+      <region>Vest-Agder</region>
+      <vicinity>Flekkerøya</vicinity>
+      <vicinity>Lights</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60645</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-12</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Kystverket SØ, 11. september 2019). (KildeID 70000).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <noticeRefersToNotice>
+        <noticeNumber>60401</noticeNumber>
+        <sequenceNumber>12</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Preliminary</noticeType>
+      </noticeRefersToNotice>
+      <charts>
+        <chartProduct>
+          <productTitle>Tittel1</productTitle>
+          <productIntNumber>1</productIntNumber>
+          <productEditionDate>2019-09-12</productEditionDate>
+          <productEditionName>Navn1</productEditionName>
+          <productLastCorrection>
+            <noticeNumber>60645</noticeNumber>
+            <sequenceNumber>17</sequenceNumber>
+            <noticeYear>2019</noticeYear>
+            <noticeType>Normal</noticeType>
+          </productLastCorrection>
+          <panels>
+            <chartPanel ID="ID9">
+              <panelName>9</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+          </panels>
+        </chartProduct>
+      </charts>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID9"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Delete</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Light No. 073200, 073150.</symbolText>
+                <symbolText>(1) G 007.5° - 017.0°</symbolText>
+                <symbolText>(2) W 017.0° - 023.0°</symbolText>
+                <symbolText>(3) R 023.0° - 026.5°</symbolText>
+                <symbolText>(4) G 026.5° - 029.5°</symbolText>
+                <symbolText>(5) W 029.5° - 032.0°</symbolText>
+                <symbolText>(6) R 032.0° - 007.5°</symbolText>
+                <correctionInstruction>a) Delete Flekkerøygapet light (Fl 5s) in the following position:</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription/>
+                <positionPoint>
+                  <latitudeDecimal>7.95616666666667</latitudeDecimal>
+                  <latitudeDegrees>7</latitudeDegrees>
+                  <latitudeMinutes>57</latitudeMinutes>
+                  <latitudeSeconds>3442.2</latitudeSeconds>
+                  <longitudeDecimal>58.0785</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>04</longitudeMinutes>
+                  <longitudeSeconds>282.6</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>b) Insert Svartskjær light, Oc(2) 8s with floodlight, in the following position:</positionDescription>
+              </position>
+              <position>
+                <positionDescription/>
+                <positionPoint>
+                  <latitudeDecimal>7.9625</latitudeDecimal>
+                  <latitudeDegrees>7</latitudeDegrees>
+                  <latitudeMinutes>57</latitudeMinutes>
+                  <latitudeSeconds>3465</latitudeSeconds>
+                  <longitudeDecimal>58.0806666666667</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>04</longitudeMinutes>
+                  <longitudeSeconds>290.4</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Søgne</area>
+      <region>Vest-Agder</region>
+      <vicinity>Ny-Hellesund</vicinity>
+      <vicinity>Urholmen</vicinity>
+      <vicinity>Light</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60626</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-06</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Kystverket SØ, 5. september 2019). (KildeID 70000).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <noticeRefersToNotice>
+        <noticeNumber>60401</noticeNumber>
+        <sequenceNumber>12</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Preliminary</noticeType>
+      </noticeRefersToNotice>
+      <charts>
+        <chartProduct>
+          <productTitle>Tittel1</productTitle>
+          <productIntNumber>1</productIntNumber>
+          <productEditionDate>2019-09-06</productEditionDate>
+          <productEditionName>Navn1</productEditionName>
+          <productLastCorrection>
+            <noticeNumber>60626</noticeNumber>
+            <sequenceNumber>17</sequenceNumber>
+            <noticeYear>2019</noticeYear>
+            <noticeType>Normal</noticeType>
+          </productLastCorrection>
+          <panels>
+            <chartPanel ID="ID10">
+              <panelName>9</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+          </panels>
+        </chartProduct>
+      </charts>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID9"/>
+              <chartRef IDREF="ID10"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Insert</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Pilot. Light No. 073948.</symbolText>
+                <correctionInstruction>Insert Urholmen SE light, Fl R 2s with floodlight, in the following position:</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription/>
+                <positionPoint>
+                  <latitudeDecimal>7.846</latitudeDecimal>
+                  <latitudeDegrees>7</latitudeDegrees>
+                  <latitudeMinutes>50</latitudeMinutes>
+                  <latitudeSeconds>3045.6</latitudeSeconds>
+                  <longitudeDecimal>58.0595</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>03</longitudeMinutes>
+                  <longitudeSeconds>214.2</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Søgne</area>
+      <region>Vest-Agder</region>
+      <vicinity>Ny-Hellesund</vicinity>
+      <vicinity>Monsøya N</vicinity>
+      <vicinity>Light</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60633</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-09</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Kystverket SØ, 6. september 2019). (KildeID 70000).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <noticeRefersToNotice>
+        <noticeNumber>60401</noticeNumber>
+        <sequenceNumber>12</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Preliminary</noticeType>
+      </noticeRefersToNotice>
+      <charts/>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID9"/>
+              <chartRef IDREF="ID10"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Insert</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Pilot. Light No. 073959.</symbolText>
+                <correctionInstruction>Insert Kvidbjørnsholmen W light, Fl G 2s with floodlight, in the following position:</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription/>
+                <positionPoint>
+                  <latitudeDecimal>7.83133333333333</latitudeDecimal>
+                  <latitudeDegrees>7</latitudeDegrees>
+                  <latitudeMinutes>49</latitudeMinutes>
+                  <latitudeSeconds>2992.8</latitudeSeconds>
+                  <longitudeDecimal>58.0616666666667</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>03</longitudeMinutes>
+                  <longitudeSeconds>222</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Søgne</area>
+      <region>Vest-Agder</region>
+      <vicinity>Ny-Hellesund</vicinity>
+      <vicinity>Light</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60635</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-10</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Kystverket SØ, 9. september 2019). (KildeID 70000).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <noticeRefersToNotice>
+        <noticeNumber>60401</noticeNumber>
+        <sequenceNumber>12</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Preliminary</noticeType>
+      </noticeRefersToNotice>
+      <charts/>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID9"/>
+              <chartRef IDREF="ID10"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Insert</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Pilot. Light No. 073952.</symbolText>
+                <correctionInstruction>Insert Urholmen S light, Fl R 2s with floodlight, in the following position:</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription/>
+                <positionPoint>
+                  <latitudeDecimal>7.84433333333333</latitudeDecimal>
+                  <latitudeDegrees>7</latitudeDegrees>
+                  <latitudeMinutes>50</latitudeMinutes>
+                  <latitudeSeconds>3039.6</latitudeSeconds>
+                  <longitudeDecimal>58.0598333333333</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>03</longitudeMinutes>
+                  <longitudeSeconds>215.4</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Søgne</area>
+      <region>Vest-Agder</region>
+      <vicinity>Ny-Hellesund</vicinity>
+      <vicinity>Kapelløya</vicinity>
+      <vicinity>Ny-Hellesund light</vicinity>
+      <vicinity>New character</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60636</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-09</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Kystverket SØ, 9. september 2019). (KildeID 70000).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts/>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID9"/>
+              <chartRef IDREF="ID10"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Amend</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Light No. 074100. Pilot.</symbolText>
+                <symbolText>(1) G 352.0° - 001.5°</symbolText>
+                <symbolText>(2) W 001.5° - 006.0°</symbolText>
+                <symbolText>(3) R 006.0° - 114.5°</symbolText>
+                <symbolText>(4) G 114.5° - 127.5°</symbolText>
+                <symbolText>(5) W 127.5° - 131.5°</symbolText>
+                <symbolText>(6) R 131.5° - 141.5°</symbolText>
+                <correctionInstruction>a) Amend sectors at the light in the following position:</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription/>
+                <positionPoint>
+                  <latitudeDecimal>7.83233333333333</latitudeDecimal>
+                  <latitudeDegrees>7</latitudeDegrees>
+                  <latitudeMinutes>49</latitudeMinutes>
+                  <latitudeSeconds>2996.4</latitudeSeconds>
+                  <longitudeDecimal>58.0508333333333</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>03</longitudeMinutes>
+                  <longitudeSeconds>183</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID9"/>
+              <chartRef IDREF="ID10"/>
+            </chartRefs>
+            <contentNumber>2</contentNumber>
+            <chartcorrectionAction>Amend</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Light No. 074100. Pilot.</symbolText>
+                <correctionInstruction>b) Amend character to Oc 6s.</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions/>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Søgne</area>
+      <region>Vest-Agder</region>
+      <vicinity>Ny-Hellesund</vicinity>
+      <vicinity>Light</vicinity>
+      <vicinity>Spar buoy</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60629</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-09</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Kystverket SØ, 6. september 2019). (KildeID 70000).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <noticeRefersToNotice>
+        <noticeNumber>60401</noticeNumber>
+        <sequenceNumber>12</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Preliminary</noticeType>
+      </noticeRefersToNotice>
+      <charts/>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID9"/>
+              <chartRef IDREF="ID10"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Insert</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Pilot. Light No. 073956.</symbolText>
+                <correctionInstruction>a) Insert Slåttholmflaket light, Fl R 2s with floodlight, in the following position:</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription/>
+                <positionPoint>
+                  <latitudeDecimal>7.83716666666667</latitudeDecimal>
+                  <latitudeDegrees>7</latitudeDegrees>
+                  <latitudeMinutes>50</latitudeMinutes>
+                  <latitudeSeconds>3013.8</latitudeSeconds>
+                  <longitudeDecimal>58.0621666666667</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>03</longitudeMinutes>
+                  <longitudeSeconds>223.8</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID9"/>
+              <chartRef IDREF="ID10"/>
+            </chartRefs>
+            <contentNumber>2</contentNumber>
+            <chartcorrectionAction>Delete</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Pilot. Light No. 073956.</symbolText>
+                <correctionInstruction>b) Delete red spar buoy close by.</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions/>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Gandsfjorden</area>
+      <region>Rogaland</region>
+      <vicinity>Forusstranda - Sandnes</vicinity>
+      <vicinity>Submarine piplines</vicinity>
+      <vicinity>Anchor berth</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60617</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-05</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(plan only), 485 (also plan). Pilot.</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <noticeCancelsNotice>
+        <noticeNumber>59412</noticeNumber>
+        <sequenceNumber>19</sequenceNumber>
+        <noticeYear>2018</noticeYear>
+        <noticeType>Preliminary</noticeType>
+      </noticeCancelsNotice>
+      <charts>
+        <chartProduct>
+          <productTitle>Tittel1</productTitle>
+          <productIntNumber>1</productIntNumber>
+          <productEditionDate>2019-09-05</productEditionDate>
+          <productEditionName>Navn1</productEditionName>
+          <productLastCorrection>
+            <noticeNumber>60617</noticeNumber>
+            <sequenceNumber>17</sequenceNumber>
+            <noticeYear>2019</noticeYear>
+            <noticeType>Normal</noticeType>
+          </productLastCorrection>
+          <panels>
+            <chartPanel ID="ID14">
+              <panelName>14</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+            <chartPanel ID="ID16">
+              <panelName>14</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+          </panels>
+        </chartProduct>
+      </charts>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID14"/>
+              <chartRef IDREF="ID16"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Insert</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <correctionInstruction>a) Insert submarine pipelines between the following positions:</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription>(1)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>5.74533333333333</latitudeDecimal>
+                  <latitudeDegrees>5</latitudeDegrees>
+                  <latitudeMinutes>44</latitudeMinutes>
+                  <latitudeSeconds>2683.2</latitudeSeconds>
+                  <longitudeDecimal>58.8543333333333</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>51</longitudeMinutes>
+                  <longitudeSeconds>3075.6</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(2)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>5.74693333333333</latitudeDecimal>
+                  <latitudeDegrees>5</latitudeDegrees>
+                  <latitudeMinutes>44</latitudeMinutes>
+                  <latitudeSeconds>2688.96</latitudeSeconds>
+                  <longitudeDecimal>58.8572666666667</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>51</longitudeMinutes>
+                  <longitudeSeconds>3086.16</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(3)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>5.75105</latitudeDecimal>
+                  <latitudeDegrees>5</latitudeDegrees>
+                  <latitudeMinutes>45</latitudeMinutes>
+                  <latitudeSeconds>2703.78</latitudeSeconds>
+                  <longitudeDecimal>58.85885</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>51</longitudeMinutes>
+                  <longitudeSeconds>3091.86</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(4)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>5.75216666666667</latitudeDecimal>
+                  <latitudeDegrees>5</latitudeDegrees>
+                  <latitudeMinutes>45</latitudeMinutes>
+                  <latitudeSeconds>2707.8</latitudeSeconds>
+                  <longitudeDecimal>58.8613666666667</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>51</longitudeMinutes>
+                  <longitudeSeconds>3100.92</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(5)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>5.75036666666667</latitudeDecimal>
+                  <latitudeDegrees>5</latitudeDegrees>
+                  <latitudeMinutes>45</latitudeMinutes>
+                  <latitudeSeconds>2701.32</latitudeSeconds>
+                  <longitudeDecimal>58.8662833333333</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>51</longitudeMinutes>
+                  <longitudeSeconds>3118.62</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(6)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>5.75045</latitudeDecimal>
+                  <latitudeDegrees>5</latitudeDegrees>
+                  <latitudeMinutes>45</latitudeMinutes>
+                  <latitudeSeconds>2701.62</latitudeSeconds>
+                  <longitudeDecimal>58.8694333333333</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>52</longitudeMinutes>
+                  <longitudeSeconds>3129.96</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(7)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>5.75246666666667</latitudeDecimal>
+                  <latitudeDegrees>5</latitudeDegrees>
+                  <latitudeMinutes>45</latitudeMinutes>
+                  <latitudeSeconds>2708.88</latitudeSeconds>
+                  <longitudeDecimal>58.8716666666667</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>52</longitudeMinutes>
+                  <longitudeSeconds>3138</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(8)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>5.75363333333333</latitudeDecimal>
+                  <latitudeDegrees>5</latitudeDegrees>
+                  <latitudeMinutes>45</latitudeMinutes>
+                  <latitudeSeconds>2713.08</latitudeSeconds>
+                  <longitudeDecimal>58.8791</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>52</longitudeMinutes>
+                  <longitudeSeconds>3164.76</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(9)  chart border 485 plan</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>5.7548</latitudeDecimal>
+                  <latitudeDegrees>5</latitudeDegrees>
+                  <latitudeMinutes>45</latitudeMinutes>
+                  <latitudeSeconds>2717.28</latitudeSeconds>
+                  <longitudeDecimal>58.88</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>52</longitudeMinutes>
+                  <longitudeSeconds>3168</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(10)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>5.75745</latitudeDecimal>
+                  <latitudeDegrees>5</latitudeDegrees>
+                  <latitudeMinutes>45</latitudeMinutes>
+                  <latitudeSeconds>2726.82</latitudeSeconds>
+                  <longitudeDecimal>58.88495</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>53</longitudeMinutes>
+                  <longitudeSeconds>3185.82</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(11)  join</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>5.7502</latitudeDecimal>
+                  <latitudeDegrees>5</latitudeDegrees>
+                  <latitudeMinutes>45</latitudeMinutes>
+                  <latitudeSeconds>2700.72</latitudeSeconds>
+                  <longitudeDecimal>58.88925</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>53</longitudeMinutes>
+                  <longitudeSeconds>3201.3</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(12)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>5.75216666666667</latitudeDecimal>
+                  <latitudeDegrees>5</latitudeDegrees>
+                  <latitudeMinutes>45</latitudeMinutes>
+                  <latitudeSeconds>2707.8</latitudeSeconds>
+                  <longitudeDecimal>58.8895333333333</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>53</longitudeMinutes>
+                  <longitudeSeconds>3202.32</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(13)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>5.75798333333333</latitudeDecimal>
+                  <latitudeDegrees>5</latitudeDegrees>
+                  <latitudeMinutes>45</latitudeMinutes>
+                  <latitudeSeconds>2728.74</latitudeSeconds>
+                  <longitudeDecimal>58.8933666666667</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>53</longitudeMinutes>
+                  <longitudeSeconds>3216.12</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>b) Delete anchor berth in the following positions:</positionDescription>
+              </position>
+              <position>
+                <positionDescription>(1)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>5.7503</latitudeDecimal>
+                  <latitudeDegrees>5</latitudeDegrees>
+                  <latitudeMinutes>45</latitudeMinutes>
+                  <latitudeSeconds>2701.08</latitudeSeconds>
+                  <longitudeDecimal>58.8583666666667</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>51</longitudeMinutes>
+                  <longitudeSeconds>3090.12</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(2)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>5.74575</latitudeDecimal>
+                  <latitudeDegrees>5</latitudeDegrees>
+                  <latitudeMinutes>44</latitudeMinutes>
+                  <latitudeSeconds>2684.7</latitudeSeconds>
+                  <longitudeDecimal>58.8526666666667</longitudeDecimal>
+                  <longitudeDegrees>58</longitudeDegrees>
+                  <longitudeMinutes>51</longitudeMinutes>
+                  <longitudeSeconds>3069.6</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Kollsnes</area>
+      <region>Hordaland</region>
+      <vicinity>Osundet</vicinity>
+      <vicinity>Leading lights</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60612</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-02</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Kystverket V, 29. august 2019). (KildeID 78716).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts>
+        <chartProduct>
+          <productTitle>Tittel1</productTitle>
+          <productIntNumber>1</productIntNumber>
+          <productEditionDate>2019-09-02</productEditionDate>
+          <productEditionName>Navn1</productEditionName>
+          <productLastCorrection>
+            <noticeNumber>60612</noticeNumber>
+            <sequenceNumber>17</sequenceNumber>
+            <noticeYear>2019</noticeYear>
+            <noticeType>Normal</noticeType>
+          </productLastCorrection>
+          <panels>
+            <chartPanel ID="ID23">
+              <panelName>23</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+            <chartPanel ID="ID120">
+              <panelName>23</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+          </panels>
+        </chartProduct>
+      </charts>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID23"/>
+              <chartRef IDREF="ID120"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Delete</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Light No. 193300, 193302.</symbolText>
+                <correctionInstruction>a) Delete Osundet upper and lower leading lights (2 F R with floodlight) in the following positions:</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription>(1)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>4.842</latitudeDecimal>
+                  <latitudeDegrees>4</latitudeDegrees>
+                  <latitudeMinutes>50</latitudeMinutes>
+                  <latitudeSeconds>3031.2</latitudeSeconds>
+                  <longitudeDecimal>60.5445</longitudeDecimal>
+                  <longitudeDegrees>60</longitudeDegrees>
+                  <longitudeMinutes>32</longitudeMinutes>
+                  <longitudeSeconds>1960.2</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(2)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>4.84116666666667</latitudeDecimal>
+                  <latitudeDegrees>4</latitudeDegrees>
+                  <latitudeMinutes>50</latitudeMinutes>
+                  <latitudeSeconds>3028.2</latitudeSeconds>
+                  <longitudeDecimal>60.5438333333333</longitudeDecimal>
+                  <longitudeDegrees>60</longitudeDegrees>
+                  <longitudeMinutes>32</longitudeMinutes>
+                  <longitudeSeconds>1957.8</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID23"/>
+              <chartRef IDREF="ID120"/>
+            </chartRefs>
+            <contentNumber>2</contentNumber>
+            <chartcorrectionAction>Delete</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Light No. 193300, 193302.</symbolText>
+                <correctionInstruction>b) Delete the leading line emanating from the lights.</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions/>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Sognesjøen</area>
+      <region>Sogn og Fjordane</region>
+      <vicinity>Hille Ø</vicinity>
+      <vicinity>Marine farm</vicinity>
+      <vicinity>Ground tackles</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60627</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-10</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Firda Seafood Group AS, 5. september 2019). (KildeID 78720).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts>
+        <chartProduct>
+          <productTitle>Tittel1</productTitle>
+          <productIntNumber>1</productIntNumber>
+          <productEditionDate>2019-09-10</productEditionDate>
+          <productEditionName>Navn1</productEditionName>
+          <productLastCorrection>
+            <noticeNumber>60627</noticeNumber>
+            <sequenceNumber>17</sequenceNumber>
+            <noticeYear>2019</noticeYear>
+            <noticeType>Normal</noticeType>
+          </productLastCorrection>
+          <panels>
+            <chartPanel ID="ID24">
+              <panelName>24</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+          </panels>
+        </chartProduct>
+      </charts>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID24"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Insert</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <correctionInstruction>a) Insert a marine farm in the following position:</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription/>
+                <positionPoint>
+                  <latitudeDecimal>4.87433333333333</latitudeDecimal>
+                  <latitudeDegrees>4</latitudeDegrees>
+                  <latitudeMinutes>52</latitudeMinutes>
+                  <latitudeSeconds>3147.6</latitudeSeconds>
+                  <longitudeDecimal>60.9805</longitudeDecimal>
+                  <longitudeDegrees>60</longitudeDegrees>
+                  <longitudeMinutes>58</longitudeMinutes>
+                  <longitudeSeconds>3529.8</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>b) Insert ground tackles from the marine farm to the following positions:</positionDescription>
+              </position>
+              <position>
+                <positionDescription>(1)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>4.87316666666667</latitudeDecimal>
+                  <latitudeDegrees>4</latitudeDegrees>
+                  <latitudeMinutes>52</latitudeMinutes>
+                  <latitudeSeconds>3143.4</latitudeSeconds>
+                  <longitudeDecimal>60.986</longitudeDecimal>
+                  <longitudeDegrees>60</longitudeDegrees>
+                  <longitudeMinutes>59</longitudeMinutes>
+                  <longitudeSeconds>3549.6</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(2)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>4.86933333333333</latitudeDecimal>
+                  <latitudeDegrees>4</latitudeDegrees>
+                  <latitudeMinutes>52</latitudeMinutes>
+                  <latitudeSeconds>3129.6</latitudeSeconds>
+                  <longitudeDecimal>60.9851666666667</longitudeDecimal>
+                  <longitudeDegrees>60</longitudeDegrees>
+                  <longitudeMinutes>59</longitudeMinutes>
+                  <longitudeSeconds>3546.6</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(3)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>4.8655</latitudeDecimal>
+                  <latitudeDegrees>4</latitudeDegrees>
+                  <latitudeMinutes>51</latitudeMinutes>
+                  <latitudeSeconds>3115.8</latitudeSeconds>
+                  <longitudeDecimal>60.978</longitudeDecimal>
+                  <longitudeDegrees>60</longitudeDegrees>
+                  <longitudeMinutes>58</longitudeMinutes>
+                  <longitudeSeconds>3520.8</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(4)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>4.86916666666667</latitudeDecimal>
+                  <latitudeDegrees>4</latitudeDegrees>
+                  <latitudeMinutes>52</latitudeMinutes>
+                  <latitudeSeconds>3129</latitudeSeconds>
+                  <longitudeDecimal>60.9728333333333</longitudeDecimal>
+                  <longitudeDegrees>60</longitudeDegrees>
+                  <longitudeMinutes>58</longitudeMinutes>
+                  <longitudeSeconds>3502.2</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(5)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>4.882</latitudeDecimal>
+                  <latitudeDegrees>4</latitudeDegrees>
+                  <latitudeMinutes>52</latitudeMinutes>
+                  <latitudeSeconds>3175.2</latitudeSeconds>
+                  <longitudeDecimal>60.9723333333333</longitudeDecimal>
+                  <longitudeDegrees>60</longitudeDegrees>
+                  <longitudeMinutes>58</longitudeMinutes>
+                  <longitudeSeconds>3500.4</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>c) Delete marine farm in the following position:</positionDescription>
+              </position>
+              <position>
+                <positionDescription/>
+                <positionPoint>
+                  <latitudeDecimal>4.87666666666667</latitudeDecimal>
+                  <latitudeDegrees>4</latitudeDegrees>
+                  <latitudeMinutes>52</latitudeMinutes>
+                  <latitudeSeconds>3156</latitudeSeconds>
+                  <longitudeDecimal>60.9835</longitudeDecimal>
+                  <longitudeDegrees>60</longitudeDegrees>
+                  <longitudeMinutes>59</longitudeMinutes>
+                  <longitudeSeconds>3540.6</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Gossa</area>
+      <region>Møre og Romsdal</region>
+      <vicinity>Rødabukta</vicinity>
+      <vicinity>Leading lights</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60616</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-02</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Kystverket MN, 29. august 2019). (KildeID 78716).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts>
+        <chartProduct>
+          <productTitle>Tittel1</productTitle>
+          <productIntNumber>1</productIntNumber>
+          <productEditionDate>2019-09-02</productEditionDate>
+          <productEditionName>Navn1</productEditionName>
+          <productLastCorrection>
+            <noticeNumber>60616</noticeNumber>
+            <sequenceNumber>17</sequenceNumber>
+            <noticeYear>2019</noticeYear>
+            <noticeType>Normal</noticeType>
+          </productLastCorrection>
+          <panels>
+            <chartPanel ID="ID32">
+              <panelName>32</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+            <chartPanel ID="ID33">
+              <panelName>32</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+          </panels>
+        </chartProduct>
+      </charts>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID32"/>
+              <chartRef IDREF="ID33"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Delete</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Light No. 3520AP, 3520P.</symbolText>
+                <correctionInstruction>a) Delete Rødsøyvågen upper and lower leading lights (2 F R) in the following positions:</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription>(1)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>6.81166666666667</latitudeDecimal>
+                  <latitudeDegrees>6</latitudeDegrees>
+                  <latitudeMinutes>48</latitudeMinutes>
+                  <latitudeSeconds>2922</latitudeSeconds>
+                  <longitudeDecimal>62.817</longitudeDecimal>
+                  <longitudeDegrees>62</longitudeDegrees>
+                  <longitudeMinutes>49</longitudeMinutes>
+                  <longitudeSeconds>2941.2</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(2)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>6.80866666666667</latitudeDecimal>
+                  <latitudeDegrees>6</latitudeDegrees>
+                  <latitudeMinutes>48</latitudeMinutes>
+                  <latitudeSeconds>2911.2</latitudeSeconds>
+                  <longitudeDecimal>62.8181666666667</longitudeDecimal>
+                  <longitudeDegrees>62</longitudeDegrees>
+                  <longitudeMinutes>49</longitudeMinutes>
+                  <longitudeSeconds>2945.4</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID32"/>
+              <chartRef IDREF="ID33"/>
+            </chartRefs>
+            <contentNumber>2</contentNumber>
+            <chartcorrectionAction>Delete</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Light No. 3520AP, 3520P.</symbolText>
+                <correctionInstruction>b) Delete the leading line emanating from the lights.</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions/>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Gossa</area>
+      <region>Møre og Romsdal</region>
+      <vicinity>Leading lights</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60619</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-06</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Kystverket MN, 2. september 2019). (KildeID 78716).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts>
+        <chartProduct>
+          <productTitle>Tittel1</productTitle>
+          <productIntNumber>1</productIntNumber>
+          <productEditionDate>2019-09-06</productEditionDate>
+          <productEditionName>Navn1</productEditionName>
+          <productLastCorrection>
+            <noticeNumber>60619</noticeNumber>
+            <sequenceNumber>17</sequenceNumber>
+            <noticeYear>2019</noticeYear>
+            <noticeType>Normal</noticeType>
+          </productLastCorrection>
+          <panels>
+            <chartPanel ID="ID35">
+              <panelName>32</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+          </panels>
+        </chartProduct>
+      </charts>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID32"/>
+              <chartRef IDREF="ID33"/>
+              <chartRef IDREF="ID35"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Delete</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Light No. 352402, 352404.</symbolText>
+                <correctionInstruction>a) Delete Flatholmhavna upper and lower leading lights (2 F R) in the following positions:</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription>(1)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>6.87783333333333</latitudeDecimal>
+                  <latitudeDegrees>6</latitudeDegrees>
+                  <latitudeMinutes>52</latitudeMinutes>
+                  <latitudeSeconds>3160.2</latitudeSeconds>
+                  <longitudeDecimal>62.837</longitudeDecimal>
+                  <longitudeDegrees>62</longitudeDegrees>
+                  <longitudeMinutes>50</longitudeMinutes>
+                  <longitudeSeconds>3013.2</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(2)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>6.87783333333333</latitudeDecimal>
+                  <latitudeDegrees>6</latitudeDegrees>
+                  <latitudeMinutes>52</latitudeMinutes>
+                  <latitudeSeconds>3160.2</latitudeSeconds>
+                  <longitudeDecimal>62.8383333333333</longitudeDecimal>
+                  <longitudeDegrees>62</longitudeDegrees>
+                  <longitudeMinutes>50</longitudeMinutes>
+                  <longitudeSeconds>3018</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID32"/>
+              <chartRef IDREF="ID33"/>
+              <chartRef IDREF="ID35"/>
+            </chartRefs>
+            <contentNumber>2</contentNumber>
+            <chartcorrectionAction>Delete</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Light No. 352402, 352404.</symbolText>
+                <correctionInstruction>b) Delete the leading line emanating from the lights.</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions/>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Gossa</area>
+      <region>Møre og Romsdal</region>
+      <vicinity>Julsundet</vicinity>
+      <vicinity>Hogsneset light</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60644</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-11</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Kystverket MN, 10. september 2019). (KildeID 70000).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <noticeRefersToNotice>
+        <noticeNumber>60171</noticeNumber>
+        <sequenceNumber>08</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Preliminary</noticeType>
+      </noticeRefersToNotice>
+      <charts>
+        <chartProduct>
+          <productTitle>Tittel1</productTitle>
+          <productIntNumber>1</productIntNumber>
+          <productEditionDate>2019-09-11</productEditionDate>
+          <productEditionName>Navn1</productEditionName>
+          <productLastCorrection>
+            <noticeNumber>60644</noticeNumber>
+            <sequenceNumber>17</sequenceNumber>
+            <noticeYear>2019</noticeYear>
+            <noticeType>Normal</noticeType>
+          </productLastCorrection>
+          <panels>
+            <chartPanel ID="ID494">
+              <panelName>32</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+          </panels>
+        </chartProduct>
+      </charts>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID32"/>
+              <chartRef IDREF="ID33"/>
+              <chartRef IDREF="ID35"/>
+              <chartRef IDREF="ID494"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Amend</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Light No. 357500.</symbolText>
+                <symbolText>(1) G 176.0° - 190.0°</symbolText>
+                <symbolText>(2) W 190.0° - 212.0°</symbolText>
+                <symbolText>(3) R 212.0° - 246.5°</symbolText>
+                <symbolText>(4) G 246.5° - 257.5°</symbolText>
+                <symbolText>(5) W 257.5° - 259.0°</symbolText>
+                <symbolText>(6) R 259.0° - 352.5°</symbolText>
+                <symbolText>(7) G 352.5° - 358.5°</symbolText>
+                <symbolText>(8) W 358.5° - 006.5°</symbolText>
+                <symbolText>(9) R 006.5° - 019.0°</symbolText>
+                <correctionInstruction>Amend sectors at the light in the following position:</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription/>
+                <positionPoint>
+                  <latitudeDecimal>6.96183333333333</latitudeDecimal>
+                  <latitudeDegrees>6</latitudeDegrees>
+                  <latitudeMinutes>57</latitudeMinutes>
+                  <latitudeSeconds>3462.6</latitudeSeconds>
+                  <longitudeDecimal>62.8251666666667</longitudeDecimal>
+                  <longitudeDegrees>62</longitudeDegrees>
+                  <longitudeMinutes>49</longitudeMinutes>
+                  <longitudeSeconds>2970.6</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Trondheim harbour</area>
+      <region>Sør-Trøndelag</region>
+      <vicinity>Submarine cable</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60641</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-11</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(NTNU, 9. september 2019). (KildeID 78726).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts>
+        <chartProduct>
+          <productTitle>Tittel1</productTitle>
+          <productIntNumber>1</productIntNumber>
+          <productEditionDate>2019-09-11</productEditionDate>
+          <productEditionName>Navn1</productEditionName>
+          <productLastCorrection>
+            <noticeNumber>60641</noticeNumber>
+            <sequenceNumber>17</sequenceNumber>
+            <noticeYear>2019</noticeYear>
+            <noticeType>Normal</noticeType>
+          </productLastCorrection>
+          <panels>
+            <chartPanel ID="ID130">
+              <panelName>130</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+            <chartPanel ID="ID458">
+              <panelName>130</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+          </panels>
+        </chartProduct>
+      </charts>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID130"/>
+              <chartRef IDREF="ID458"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Insert</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Pilot.</symbolText>
+                <correctionInstruction>Insert a submarine cable between the following positions:</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription>(1)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>10.3489</latitudeDecimal>
+                  <latitudeDegrees>10</latitudeDegrees>
+                  <latitudeMinutes>20</latitudeMinutes>
+                  <latitudeSeconds>1256.04</latitudeSeconds>
+                  <longitudeDecimal>63.4406666666667</longitudeDecimal>
+                  <longitudeDegrees>63</longitudeDegrees>
+                  <longitudeMinutes>26</longitudeMinutes>
+                  <longitudeSeconds>1586.4</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(2)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>10.3519166666667</latitudeDecimal>
+                  <latitudeDegrees>10</latitudeDegrees>
+                  <latitudeMinutes>21</latitudeMinutes>
+                  <latitudeSeconds>1266.9</latitudeSeconds>
+                  <longitudeDecimal>63.4405833333333</longitudeDecimal>
+                  <longitudeDegrees>63</longitudeDegrees>
+                  <longitudeMinutes>26</longitudeMinutes>
+                  <longitudeSeconds>1586.1</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(3)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>10.3550833333333</latitudeDecimal>
+                  <latitudeDegrees>10</latitudeDegrees>
+                  <latitudeMinutes>21</latitudeMinutes>
+                  <latitudeSeconds>1278.3</latitudeSeconds>
+                  <longitudeDecimal>63.4415833333333</longitudeDecimal>
+                  <longitudeDegrees>63</longitudeDegrees>
+                  <longitudeMinutes>26</longitudeMinutes>
+                  <longitudeSeconds>1589.7</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(4)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>10.35595</latitudeDecimal>
+                  <latitudeDegrees>10</latitudeDegrees>
+                  <latitudeMinutes>21</latitudeMinutes>
+                  <latitudeSeconds>1281.42</latitudeSeconds>
+                  <longitudeDecimal>63.4427666666667</longitudeDecimal>
+                  <longitudeDegrees>63</longitudeDegrees>
+                  <longitudeMinutes>26</longitudeMinutes>
+                  <longitudeSeconds>1593.96</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(5)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>10.3547166666667</latitudeDecimal>
+                  <latitudeDegrees>10</latitudeDegrees>
+                  <latitudeMinutes>21</latitudeMinutes>
+                  <latitudeSeconds>1276.98</latitudeSeconds>
+                  <longitudeDecimal>63.4445833333333</longitudeDecimal>
+                  <longitudeDegrees>63</longitudeDegrees>
+                  <longitudeMinutes>26</longitudeMinutes>
+                  <longitudeSeconds>1600.5</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(6)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>10.3521666666667</latitudeDecimal>
+                  <latitudeDegrees>10</latitudeDegrees>
+                  <latitudeMinutes>21</latitudeMinutes>
+                  <latitudeSeconds>1267.8</latitudeSeconds>
+                  <longitudeDecimal>63.4465</longitudeDecimal>
+                  <longitudeDegrees>63</longitudeDegrees>
+                  <longitudeMinutes>26</longitudeMinutes>
+                  <longitudeSeconds>1607.4</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(7)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>10.3515166666667</latitudeDecimal>
+                  <latitudeDegrees>10</latitudeDegrees>
+                  <latitudeMinutes>21</latitudeMinutes>
+                  <latitudeSeconds>1265.46</latitudeSeconds>
+                  <longitudeDecimal>63.4544666666667</longitudeDecimal>
+                  <longitudeDegrees>63</longitudeDegrees>
+                  <longitudeMinutes>27</longitudeMinutes>
+                  <longitudeSeconds>1636.08</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(8)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>10.3461</latitudeDecimal>
+                  <latitudeDegrees>10</latitudeDegrees>
+                  <latitudeMinutes>20</latitudeMinutes>
+                  <latitudeSeconds>1245.96</latitudeSeconds>
+                  <longitudeDecimal>63.4585833333333</longitudeDecimal>
+                  <longitudeDegrees>63</longitudeDegrees>
+                  <longitudeMinutes>27</longitudeMinutes>
+                  <longitudeSeconds>1650.9</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(9)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>10.34695</latitudeDecimal>
+                  <latitudeDegrees>10</latitudeDegrees>
+                  <latitudeMinutes>20</latitudeMinutes>
+                  <latitudeSeconds>1249.02</latitudeSeconds>
+                  <longitudeDecimal>63.4600666666667</longitudeDecimal>
+                  <longitudeDegrees>63</longitudeDegrees>
+                  <longitudeMinutes>27</longitudeMinutes>
+                  <longitudeSeconds>1656.24</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(10)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>10.3496333333333</latitudeDecimal>
+                  <latitudeDegrees>10</latitudeDegrees>
+                  <latitudeMinutes>20</latitudeMinutes>
+                  <latitudeSeconds>1258.68</latitudeSeconds>
+                  <longitudeDecimal>63.4602666666667</longitudeDecimal>
+                  <longitudeDegrees>63</longitudeDegrees>
+                  <longitudeMinutes>27</longitudeMinutes>
+                  <longitudeSeconds>1656.96</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Moskenesøya S</area>
+      <region>Lofoten</region>
+      <vicinity>Å</vicinity>
+      <vicinity>Nupen</vicinity>
+      <vicinity>Iron pole</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60628</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-09</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Kystverket N, 6. september 2019). (KildeID 70000).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts>
+        <chartProduct>
+          <productTitle>Tittel1</productTitle>
+          <productIntNumber>1</productIntNumber>
+          <productEditionDate>2019-09-09</productEditionDate>
+          <productEditionName>Navn1</productEditionName>
+          <productLastCorrection>
+            <noticeNumber>60628</noticeNumber>
+            <sequenceNumber>17</sequenceNumber>
+            <noticeYear>2019</noticeYear>
+            <noticeType>Normal</noticeType>
+          </productLastCorrection>
+          <panels>
+            <chartPanel ID="ID71">
+              <panelName>71</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+            <chartPanel ID="ID72">
+              <panelName>71</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+          </panels>
+        </chartProduct>
+      </charts>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID71"/>
+              <chartRef IDREF="ID72"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Insert</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <correctionInstruction>Insert an iron pole in the following position:</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription/>
+                <positionPoint>
+                  <latitudeDecimal>12.9275</latitudeDecimal>
+                  <latitudeDegrees>12</latitudeDegrees>
+                  <latitudeMinutes>55</latitudeMinutes>
+                  <latitudeSeconds>3339</latitudeSeconds>
+                  <longitudeDecimal>67.8613333333333</longitudeDecimal>
+                  <longitudeDegrees>67</longitudeDegrees>
+                  <longitudeMinutes>51</longitudeMinutes>
+                  <longitudeSeconds>3100.8</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Flakstadøya</area>
+      <region>Lofoten</region>
+      <vicinity>Skjelfjorden light</vicinity>
+      <vicinity>New character</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60624</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-06</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Kystverket N, 5. september 2019). (KildeID 70000).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <noticeCancelsNotice>
+        <noticeNumber>60153</noticeNumber>
+        <sequenceNumber>10</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Preliminary</noticeType>
+      </noticeCancelsNotice>
+      <charts/>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID72"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Amend</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Light No. 761600.</symbolText>
+                <correctionInstruction>Amend character to Iso 4s at Skjelfjorden light in the following position:</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription/>
+                <positionPoint>
+                  <latitudeDecimal>13.2478333333333</latitudeDecimal>
+                  <latitudeDegrees>13</latitudeDegrees>
+                  <latitudeMinutes>14</latitudeMinutes>
+                  <latitudeSeconds>892.2</latitudeSeconds>
+                  <longitudeDecimal>68.042</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>02</longitudeMinutes>
+                  <longitudeSeconds>151.2</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Stamsund</area>
+      <region>Lofoten</region>
+      <vicinity>Tørnholmen</vicinity>
+      <vicinity>Stamsund light</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60625</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-09</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(also plan), 74. Dnl. Light No. 756800.</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <noticeCancelsNotice>
+        <noticeNumber>60149</noticeNumber>
+        <sequenceNumber>10</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Preliminary</noticeType>
+      </noticeCancelsNotice>
+      <charts>
+        <chartProduct>
+          <productTitle>Tittel1</productTitle>
+          <productIntNumber>1</productIntNumber>
+          <productEditionDate>2019-09-09</productEditionDate>
+          <productEditionName>Navn1</productEditionName>
+          <productLastCorrection>
+            <noticeNumber>60625</noticeNumber>
+            <sequenceNumber>17</sequenceNumber>
+            <noticeYear>2019</noticeYear>
+            <noticeType>Normal</noticeType>
+          </productLastCorrection>
+          <panels>
+            <chartPanel ID="ID73">
+              <panelName>72</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+          </panels>
+        </chartProduct>
+      </charts>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID72"/>
+              <chartRef IDREF="ID73"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Amend</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>(1) G 263.0° - 266.0°</symbolText>
+                <symbolText>(2) W 266.0° - 351.0°</symbolText>
+                <symbolText>(3) R 351.0° - 356.0°</symbolText>
+                <symbolText>(4) G 356.0° - 019.0°</symbolText>
+                <symbolText>(5) W 019.0° - 023.5°</symbolText>
+                <symbolText>(6) R 023.5° - 098.0°</symbolText>
+                <symbolText>(7) G 098.0° - 145.5°</symbolText>
+                <symbolText>(8) W 145.5° - 179.0°</symbolText>
+                <symbolText>(9) R 179.0° - 186.5°</symbolText>
+                <correctionInstruction>Amend sectors at the light in the following position:</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription/>
+                <positionPoint>
+                  <latitudeDecimal>13.8506833333333</latitudeDecimal>
+                  <latitudeDegrees>13</latitudeDegrees>
+                  <latitudeMinutes>51</latitudeMinutes>
+                  <latitudeSeconds>3062.46</latitudeSeconds>
+                  <longitudeDecimal>68.1183333333333</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>07</longitudeMinutes>
+                  <longitudeSeconds>426</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Sortland</area>
+      <region>Vesterålen</region>
+      <vicinity>Hognfjorden</vicinity>
+      <vicinity>Submarine piplines</vicinity>
+      <vicinity>Anchor berth</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60637</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-11</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Dykkerkompaniet AS, 9. september 2019). (KildeID 78723).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <noticeCancelsNotice>
+        <noticeNumber>59315</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2018</noticeYear>
+        <noticeType>Preliminary</noticeType>
+      </noticeCancelsNotice>
+      <charts>
+        <chartProduct>
+          <productTitle>Tittel1</productTitle>
+          <productIntNumber>1</productIntNumber>
+          <productEditionDate>2019-09-11</productEditionDate>
+          <productEditionName>Navn1</productEditionName>
+          <productLastCorrection>
+            <noticeNumber>60637</noticeNumber>
+            <sequenceNumber>17</sequenceNumber>
+            <noticeYear>2019</noticeYear>
+            <noticeType>Normal</noticeType>
+          </productLastCorrection>
+          <panels>
+            <chartPanel ID="ID76">
+              <panelName>76</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+          </panels>
+        </chartProduct>
+      </charts>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID76"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Insert</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Ånstadsjøen - Kringelneset</symbolText>
+                <symbolText>and</symbolText>
+                <symbolText>Kringelneset - Leirbogen</symbolText>
+                <correctionInstruction>a) Insert submarine pipelines between the following positions:</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription>(1)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>15.4098333333333</latitudeDecimal>
+                  <latitudeDegrees>15</latitudeDegrees>
+                  <latitudeMinutes>24</latitudeMinutes>
+                  <latitudeSeconds>1475.4</latitudeSeconds>
+                  <longitudeDecimal>68.716</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>42</longitudeMinutes>
+                  <longitudeSeconds>2577.6</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(2)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>15.4211666666667</latitudeDecimal>
+                  <latitudeDegrees>15</latitudeDegrees>
+                  <latitudeMinutes>25</latitudeMinutes>
+                  <latitudeSeconds>1516.2</latitudeSeconds>
+                  <longitudeDecimal>68.7165</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>42</longitudeMinutes>
+                  <longitudeSeconds>2579.4</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(3)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>15.4255</latitudeDecimal>
+                  <latitudeDegrees>15</latitudeDegrees>
+                  <latitudeMinutes>25</latitudeMinutes>
+                  <latitudeSeconds>1531.8</latitudeSeconds>
+                  <longitudeDecimal>68.7181666666667</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>43</longitudeMinutes>
+                  <longitudeSeconds>2585.4</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(4)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>15.4271666666667</latitudeDecimal>
+                  <latitudeDegrees>15</latitudeDegrees>
+                  <latitudeMinutes>25</latitudeMinutes>
+                  <latitudeSeconds>1537.8</latitudeSeconds>
+                  <longitudeDecimal>68.7223333333333</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>43</longitudeMinutes>
+                  <longitudeSeconds>2600.4</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(5)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>15.441</latitudeDecimal>
+                  <latitudeDegrees>15</latitudeDegrees>
+                  <latitudeMinutes>26</latitudeMinutes>
+                  <latitudeSeconds>1587.6</latitudeSeconds>
+                  <longitudeDecimal>68.7268333333333</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>43</longitudeMinutes>
+                  <longitudeSeconds>2616.6</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(6)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>15.444</latitudeDecimal>
+                  <latitudeDegrees>15</latitudeDegrees>
+                  <latitudeMinutes>26</latitudeMinutes>
+                  <latitudeSeconds>1598.4</latitudeSeconds>
+                  <longitudeDecimal>68.728</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>43</longitudeMinutes>
+                  <longitudeSeconds>2620.8</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(7)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>15.4475</latitudeDecimal>
+                  <latitudeDegrees>15</latitudeDegrees>
+                  <latitudeMinutes>26</latitudeMinutes>
+                  <latitudeSeconds>1611</latitudeSeconds>
+                  <longitudeDecimal>68.7261666666667</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>43</longitudeMinutes>
+                  <longitudeSeconds>2614.2</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(8)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>15.4526666666667</latitudeDecimal>
+                  <latitudeDegrees>15</latitudeDegrees>
+                  <latitudeMinutes>27</latitudeMinutes>
+                  <latitudeSeconds>1629.6</latitudeSeconds>
+                  <longitudeDecimal>68.7256666666667</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>43</longitudeMinutes>
+                  <longitudeSeconds>2612.4</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(1)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>15.4595</latitudeDecimal>
+                  <latitudeDegrees>15</latitudeDegrees>
+                  <latitudeMinutes>27</latitudeMinutes>
+                  <latitudeSeconds>1654.2</latitudeSeconds>
+                  <longitudeDecimal>68.7273333333333</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>43</longitudeMinutes>
+                  <longitudeSeconds>2618.4</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(2)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>15.4728333333333</latitudeDecimal>
+                  <latitudeDegrees>15</latitudeDegrees>
+                  <latitudeMinutes>28</latitudeMinutes>
+                  <latitudeSeconds>1702.2</latitudeSeconds>
+                  <longitudeDecimal>68.7306666666667</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>43</longitudeMinutes>
+                  <longitudeSeconds>2630.4</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(3)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>15.4801666666667</latitudeDecimal>
+                  <latitudeDegrees>15</latitudeDegrees>
+                  <latitudeMinutes>28</latitudeMinutes>
+                  <latitudeSeconds>1728.6</latitudeSeconds>
+                  <longitudeDecimal>68.7301666666667</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>43</longitudeMinutes>
+                  <longitudeSeconds>2628.6</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(4)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>15.4931666666667</latitudeDecimal>
+                  <latitudeDegrees>15</latitudeDegrees>
+                  <latitudeMinutes>29</latitudeMinutes>
+                  <latitudeSeconds>1775.4</latitudeSeconds>
+                  <longitudeDecimal>68.7311666666667</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>43</longitudeMinutes>
+                  <longitudeSeconds>2632.2</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(5)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>15.5048333333333</latitudeDecimal>
+                  <latitudeDegrees>15</latitudeDegrees>
+                  <latitudeMinutes>30</latitudeMinutes>
+                  <latitudeSeconds>1817.4</latitudeSeconds>
+                  <longitudeDecimal>68.7333333333333</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>44</longitudeMinutes>
+                  <longitudeSeconds>2640</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(6)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>15.5101666666667</latitudeDecimal>
+                  <latitudeDegrees>15</latitudeDegrees>
+                  <latitudeMinutes>30</latitudeMinutes>
+                  <latitudeSeconds>1836.6</latitudeSeconds>
+                  <longitudeDecimal>68.7355</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>44</longitudeMinutes>
+                  <longitudeSeconds>2647.8</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(7)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>15.5148333333333</latitudeDecimal>
+                  <latitudeDegrees>15</latitudeDegrees>
+                  <latitudeMinutes>30</latitudeMinutes>
+                  <latitudeSeconds>1853.4</latitudeSeconds>
+                  <longitudeDecimal>68.7366666666667</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>44</longitudeMinutes>
+                  <longitudeSeconds>2652</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(8)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>15.5186666666667</latitudeDecimal>
+                  <latitudeDegrees>15</latitudeDegrees>
+                  <latitudeMinutes>31</latitudeMinutes>
+                  <latitudeSeconds>1867.2</latitudeSeconds>
+                  <longitudeDecimal>68.7368333333333</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>44</longitudeMinutes>
+                  <longitudeSeconds>2652.6</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>b) Delete anchor berth in the following position:</positionDescription>
+              </position>
+              <position>
+                <positionDescription/>
+                <positionPoint>
+                  <latitudeDecimal>15.5121666666667</latitudeDecimal>
+                  <latitudeDegrees>15</latitudeDegrees>
+                  <latitudeMinutes>30</latitudeMinutes>
+                  <latitudeSeconds>1843.8</latitudeSeconds>
+                  <longitudeDecimal>68.7379833333333</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>44</longitudeMinutes>
+                  <longitudeSeconds>2656.74</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Båtsfjord</area>
+      <region>Øst-Finnmark</region>
+      <vicinity>Leading lights</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60615</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-02</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(also plan), 112 (also plan). Light No. 965600, 965700.</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts>
+        <chartProduct>
+          <productTitle>Tittel1</productTitle>
+          <productIntNumber>1</productIntNumber>
+          <productEditionDate>2019-09-02</productEditionDate>
+          <productEditionName>Navn1</productEditionName>
+          <productLastCorrection>
+            <noticeNumber>60615</noticeNumber>
+            <sequenceNumber>17</sequenceNumber>
+            <noticeYear>2019</noticeYear>
+            <noticeType>Normal</noticeType>
+          </productLastCorrection>
+          <panels>
+            <chartPanel ID="ID111">
+              <panelName>111</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+          </panels>
+        </chartProduct>
+      </charts>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID111"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Delete</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <correctionInstruction>a) Delete Neptunbukta upper and lower leading lights (2 F R) in the following positions:</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription>(1)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>29.71055</latitudeDecimal>
+                  <latitudeDegrees>29</latitudeDegrees>
+                  <latitudeMinutes>42</latitudeMinutes>
+                  <latitudeSeconds>2557.98</latitudeSeconds>
+                  <longitudeDecimal>70.6178</longitudeDecimal>
+                  <longitudeDegrees>70</longitudeDegrees>
+                  <longitudeMinutes>37</longitudeMinutes>
+                  <longitudeSeconds>2224.08</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(2)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>29.7103166666667</latitudeDecimal>
+                  <latitudeDegrees>29</latitudeDegrees>
+                  <latitudeMinutes>42</latitudeMinutes>
+                  <latitudeSeconds>2557.14</latitudeSeconds>
+                  <longitudeDecimal>70.6180666666667</longitudeDecimal>
+                  <longitudeDegrees>70</longitudeDegrees>
+                  <longitudeMinutes>37</longitudeMinutes>
+                  <longitudeSeconds>2225.04</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID111"/>
+            </chartRefs>
+            <contentNumber>2</contentNumber>
+            <chartcorrectionAction>Delete</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <correctionInstruction>b) Delete the leading line emanating from the lights.</correctionInstruction>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions/>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Sundstraumen</area>
+      <region>(T) Lofoten</region>
+      <vicinity>Fairway closed to traffic</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60634</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Temporary</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-06</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>Other</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts/>
+      <contents>
+        <content>
+          <textContent>
+            <chartRefs/>
+            <contentNumber>1</contentNumber>
+            <text>The condition of parts of the navigational installations in Sundstrømmen is very poor. Therefore, a renewal/reestablishment of six of the navigational installations will be conducted.</text>
+          </textContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Ramsundet</area>
+      <region>(T) Ofoten</region>
+      <vicinity>Ramsund</vicinity>
+      <vicinity>ODAS buoys</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60642</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Temporary</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-10</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(also plan), 141.</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts>
+        <chartProduct>
+          <productTitle>Tittel1</productTitle>
+          <productIntNumber>1</productIntNumber>
+          <productEditionDate>2019-09-10</productEditionDate>
+          <productEditionName>Navn1</productEditionName>
+          <productLastCorrection>
+            <noticeNumber>60642</noticeNumber>
+            <sequenceNumber>17</sequenceNumber>
+            <noticeYear>2019</noticeYear>
+            <noticeType>Temporary</noticeType>
+          </productLastCorrection>
+          <panels>
+            <chartPanel ID="ID77">
+              <panelName>77</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+          </panels>
+        </chartProduct>
+      </charts>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID77"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Insert</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>In connection with environmental monitoring in Ramsund, four measuring rigs have been deployed in the following positions:</symbolText>
+                <symbolText>Each rig position is marked with a surface marker buoy equipped with radar reflector and light (Fl Y).</symbolText>
+                <symbolText>Period: Until 23 October 2019.</symbolText>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription>(1)  SF 1 Biskaia (16m depth)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>16.5248333333333</latitudeDecimal>
+                  <latitudeDegrees>16</latitudeDegrees>
+                  <latitudeMinutes>31</latitudeMinutes>
+                  <latitudeSeconds>1889.4</latitudeSeconds>
+                  <longitudeDecimal>68.4713333333333</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>28</longitudeMinutes>
+                  <longitudeSeconds>1696.8</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(2)  SF 3 Hovedkai (40m depth)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>16.5096666666667</latitudeDecimal>
+                  <latitudeDegrees>16</latitudeDegrees>
+                  <latitudeMinutes>30</latitudeMinutes>
+                  <latitudeSeconds>1834.8</latitudeSeconds>
+                  <longitudeDecimal>68.491</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>29</longitudeMinutes>
+                  <longitudeSeconds>1767.6</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(3)  SF 4 Hovedkai (31m depth)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>16.5051666666667</latitudeDecimal>
+                  <latitudeDegrees>16</latitudeDegrees>
+                  <latitudeMinutes>30</latitudeMinutes>
+                  <latitudeSeconds>1818.6</latitudeSeconds>
+                  <longitudeDecimal>68.4933333333333</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>29</longitudeMinutes>
+                  <longitudeSeconds>1776</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(4)  SF 5 Hovedkai (19m depth)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>16.4988333333333</latitudeDecimal>
+                  <latitudeDegrees>16</latitudeDegrees>
+                  <latitudeMinutes>29</latitudeMinutes>
+                  <latitudeSeconds>1795.8</latitudeSeconds>
+                  <longitudeDecimal>68.4965</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>29</longitudeMinutes>
+                  <longitudeSeconds>1787.4</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Bøkfjorden</area>
+      <region>(T) Øst-Finnmark</region>
+      <vicinity>Reinøya</vicinity>
+      <vicinity>Sabelskjæret</vicinity>
+      <vicinity>Subsurface ODAS</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60631</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Temporary</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-06</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Rambøll, 6. september 2019). (KildeID 30760).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts>
+        <chartProduct>
+          <productTitle>Tittel1</productTitle>
+          <productIntNumber>1</productIntNumber>
+          <productEditionDate>2019-09-06</productEditionDate>
+          <productEditionName>Navn1</productEditionName>
+          <productLastCorrection>
+            <noticeNumber>60631</noticeNumber>
+            <sequenceNumber>17</sequenceNumber>
+            <noticeYear>2019</noticeYear>
+            <noticeType>Temporary</noticeType>
+          </productLastCorrection>
+          <panels>
+            <chartPanel ID="ID116">
+              <panelName>116</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+          </panels>
+        </chartProduct>
+      </charts>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID116"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Insert</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Two turbidity measure instrument will be anchored to the seabed in the following positions in</symbolText>
+                <symbolText>Bøkfjorden:</symbolText>
+                <symbolText>Duration: Until week 41/2019.</symbolText>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription>(1)  Reinøya, immersed rope ashore to the east, no surface marker buoy.</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>30.0848333333333</latitudeDecimal>
+                  <latitudeDegrees>30</latitudeDegrees>
+                  <latitudeMinutes>05</latitudeMinutes>
+                  <latitudeSeconds>305.4</latitudeSeconds>
+                  <longitudeDecimal>69.7891666666667</longitudeDecimal>
+                  <longitudeDegrees>69</longitudeDegrees>
+                  <longitudeMinutes>47</longitudeMinutes>
+                  <longitudeSeconds>2841</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(2)  Sabelskjæret, surface marker buoy with flashing light.</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>30.0846666666667</latitudeDecimal>
+                  <latitudeDegrees>30</latitudeDegrees>
+                  <latitudeMinutes>05</latitudeMinutes>
+                  <latitudeSeconds>304.8</latitudeSeconds>
+                  <longitudeDecimal>69.7375</longitudeDecimal>
+                  <longitudeDegrees>69</longitudeDegrees>
+                  <longitudeMinutes>44</longitudeMinutes>
+                  <longitudeSeconds>2655</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Storegga</area>
+      <region>(T) Norwegian Sea</region>
+      <vicinity>ODAS buoy</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60632</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Temporary</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-06</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Universitetet i Bergen, UiB, 6. september 2019). (KildeID 30760).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts>
+        <chartProduct>
+          <productTitle>Tittel1</productTitle>
+          <productIntNumber>1</productIntNumber>
+          <productEditionDate>2019-09-06</productEditionDate>
+          <productEditionName>Navn1</productEditionName>
+          <productLastCorrection>
+            <noticeNumber>60632</noticeNumber>
+            <sequenceNumber>17</sequenceNumber>
+            <noticeYear>2019</noticeYear>
+            <noticeType>Temporary</noticeType>
+          </productLastCorrection>
+          <panels>
+            <chartPanel ID="ID304">
+              <panelName>304</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+            <chartPanel ID="ID308">
+              <panelName>304</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+          </panels>
+        </chartProduct>
+      </charts>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID304"/>
+              <chartRef IDREF="ID308"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Insert</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>A Wavescan research buoy is deployed outside Ålesund in the following position:</symbolText>
+                <symbolText>The buoy is marked with light, character Fl(5) Y 20s.</symbolText>
+                <symbolText>Period: Until May - June 2020.</symbolText>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription/>
+                <positionPoint>
+                  <latitudeDecimal>4.31</latitudeDecimal>
+                  <latitudeDegrees>4</latitudeDegrees>
+                  <latitudeMinutes>18</latitudeMinutes>
+                  <latitudeSeconds>1116</latitudeSeconds>
+                  <longitudeDecimal>62.82</longitudeDecimal>
+                  <longitudeDegrees>62</longitudeDegrees>
+                  <longitudeMinutes>49</longitudeMinutes>
+                  <longitudeSeconds>2952</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Subsurface ODAS</area>
+      <region>(T) Barents Sea</region>
+      <noticeIdentifier>
+        <noticeNumber>60630</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Temporary</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-06</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Institute of Marine Research, Norway, 6. september 2019). (KildeID 30760).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts>
+        <chartProduct>
+          <productTitle>Tittel1</productTitle>
+          <productIntNumber>1</productIntNumber>
+          <productEditionDate>2019-09-06</productEditionDate>
+          <productEditionName>Navn1</productEditionName>
+          <productLastCorrection>
+            <noticeNumber>60630</noticeNumber>
+            <sequenceNumber>17</sequenceNumber>
+            <noticeYear>2019</noticeYear>
+            <noticeType>Temporary</noticeType>
+          </productLastCorrection>
+          <panels>
+            <chartPanel ID="ID505">
+              <panelName>505</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+            <chartPanel ID="ID506">
+              <panelName>505</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+            <chartPanel ID="ID514">
+              <panelName>505</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+          </panels>
+        </chartProduct>
+      </charts>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID505"/>
+              <chartRef IDREF="ID506"/>
+              <chartRef IDREF="ID514"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Insert</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Institute of Marine Research, Bergen, has deployed seafloor moored scientific instruments in the northern Barents Sea:</symbolText>
+                <symbolText>Duration: Until 1 October 2020.</symbolText>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription>(1)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>35.0581666666667</latitudeDecimal>
+                  <latitudeDegrees>35</latitudeDegrees>
+                  <latitudeMinutes>03</latitudeMinutes>
+                  <latitudeSeconds>209.4</latitudeSeconds>
+                  <longitudeDecimal>77.0825</longitudeDecimal>
+                  <longitudeDegrees>77</longitudeDegrees>
+                  <longitudeMinutes>04</longitudeMinutes>
+                  <longitudeSeconds>297</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(2)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>35.0361666666667</latitudeDecimal>
+                  <latitudeDegrees>35</latitudeDegrees>
+                  <latitudeMinutes>02</latitudeMinutes>
+                  <latitudeSeconds>130.2</latitudeSeconds>
+                  <longitudeDecimal>77.0753333333333</longitudeDecimal>
+                  <longitudeDegrees>77</longitudeDegrees>
+                  <longitudeMinutes>04</longitudeMinutes>
+                  <longitudeSeconds>271.2</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(3)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>34.7623333333333</latitudeDecimal>
+                  <latitudeDegrees>34</latitudeDegrees>
+                  <latitudeMinutes>45</latitudeMinutes>
+                  <latitudeSeconds>2744.4</latitudeSeconds>
+                  <longitudeDecimal>78.3478333333333</longitudeDecimal>
+                  <longitudeDegrees>78</longitudeDegrees>
+                  <longitudeMinutes>20</longitudeMinutes>
+                  <longitudeSeconds>1252.2</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Isfjorden</area>
+      <region>(T) Svalbard</region>
+      <vicinity>Barentsburg</vicinity>
+      <vicinity>Subsurface ODAS</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60640</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Temporary</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-10</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Universitetet på Svalbard (UNIS), 10. september 2019). (KildeID 30760).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts>
+        <chartProduct>
+          <productTitle>Tittel1</productTitle>
+          <productIntNumber>1</productIntNumber>
+          <productEditionDate>2019-09-10</productEditionDate>
+          <productEditionName>Navn1</productEditionName>
+          <productLastCorrection>
+            <noticeNumber>60640</noticeNumber>
+            <sequenceNumber>17</sequenceNumber>
+            <noticeYear>2019</noticeYear>
+            <noticeType>Temporary</noticeType>
+          </productLastCorrection>
+          <panels>
+            <chartPanel ID="ID507">
+              <panelName>505</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+            <chartPanel ID="ID515">
+              <panelName>505</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+            <chartPanel ID="ID523">
+              <panelName>505</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+            <chartPanel ID="ID524">
+              <panelName>505</panelName>
+              <horizontalDatumEPSG>4326</horizontalDatumEPSG>
+            </chartPanel>
+          </panels>
+        </chartProduct>
+      </charts>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID505"/>
+              <chartRef IDREF="ID507"/>
+              <chartRef IDREF="ID515"/>
+              <chartRef IDREF="ID523"/>
+              <chartRef IDREF="ID524"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Insert</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>The University of Svalbard (UNIS) has deployed two instrument rigs in the following positions:</symbolText>
+                <symbolText>Both instruments are anchored to the sea bed and have a steel buoy on top at minimum depth 30m.</symbolText>
+                <symbolText>Duration: Until September 2020.</symbolText>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription>(1)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>13.5238333333333</latitudeDecimal>
+                  <latitudeDegrees>13</latitudeDegrees>
+                  <latitudeMinutes>31</latitudeMinutes>
+                  <latitudeSeconds>1885.8</latitudeSeconds>
+                  <longitudeDecimal>78.061</longitudeDecimal>
+                  <longitudeDegrees>78</longitudeDegrees>
+                  <longitudeMinutes>03</longitudeMinutes>
+                  <longitudeSeconds>219.6</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(2)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>14.4193333333333</latitudeDecimal>
+                  <latitudeDegrees>14</latitudeDegrees>
+                  <latitudeMinutes>25</latitudeMinutes>
+                  <latitudeSeconds>1509.6</latitudeSeconds>
+                  <longitudeDecimal>78.1253333333333</longitudeDecimal>
+                  <longitudeDegrees>78</longitudeDegrees>
+                  <longitudeMinutes>07</longitudeMinutes>
+                  <longitudeSeconds>451.2</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Sundstraumen</area>
+      <region>(T) Lofoten</region>
+      <vicinity>Fairway closed to traffic</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60634</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Temporary</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-06</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>Other</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts/>
+      <contents>
+        <content>
+          <textContent>
+            <chartRefs/>
+            <contentNumber>1</contentNumber>
+            <text>The condition of parts of the navigational installations in Sundstrømmen is very poor. Therefore, a renewal/reestablishment of six of the navigational installations will be conducted.</text>
+          </textContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Ramsundet</area>
+      <region>(T) Ofoten</region>
+      <vicinity>Ramsund</vicinity>
+      <vicinity>ODAS buoys</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60642</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Temporary</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-10</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(also plan), 141.</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts/>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID77"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Insert</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>In connection with environmental monitoring in Ramsund, four measuring rigs have been deployed in the following positions:</symbolText>
+                <symbolText>Each rig position is marked with a surface marker buoy equipped with radar reflector and light (Fl Y).</symbolText>
+                <symbolText>Period: Until 23 October 2019.</symbolText>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription>(1)  SF 1 Biskaia (16m depth)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>16.5248333333333</latitudeDecimal>
+                  <latitudeDegrees>16</latitudeDegrees>
+                  <latitudeMinutes>31</latitudeMinutes>
+                  <latitudeSeconds>1889.4</latitudeSeconds>
+                  <longitudeDecimal>68.4713333333333</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>28</longitudeMinutes>
+                  <longitudeSeconds>1696.8</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(2)  SF 3 Hovedkai (40m depth)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>16.5096666666667</latitudeDecimal>
+                  <latitudeDegrees>16</latitudeDegrees>
+                  <latitudeMinutes>30</latitudeMinutes>
+                  <latitudeSeconds>1834.8</latitudeSeconds>
+                  <longitudeDecimal>68.491</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>29</longitudeMinutes>
+                  <longitudeSeconds>1767.6</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(3)  SF 4 Hovedkai (31m depth)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>16.5051666666667</latitudeDecimal>
+                  <latitudeDegrees>16</latitudeDegrees>
+                  <latitudeMinutes>30</latitudeMinutes>
+                  <latitudeSeconds>1818.6</latitudeSeconds>
+                  <longitudeDecimal>68.4933333333333</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>29</longitudeMinutes>
+                  <longitudeSeconds>1776</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(4)  SF 5 Hovedkai (19m depth)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>16.4988333333333</latitudeDecimal>
+                  <latitudeDegrees>16</latitudeDegrees>
+                  <latitudeMinutes>29</latitudeMinutes>
+                  <latitudeSeconds>1795.8</latitudeSeconds>
+                  <longitudeDecimal>68.4965</longitudeDecimal>
+                  <longitudeDegrees>68</longitudeDegrees>
+                  <longitudeMinutes>29</longitudeMinutes>
+                  <longitudeSeconds>1787.4</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Bøkfjorden</area>
+      <region>(T) Øst-Finnmark</region>
+      <vicinity>Reinøya</vicinity>
+      <vicinity>Sabelskjæret</vicinity>
+      <vicinity>Subsurface ODAS</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60631</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Temporary</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-06</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Rambøll, 6. september 2019). (KildeID 30760).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts/>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID116"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Insert</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Two turbidity measure instrument will be anchored to the seabed in the following positions in</symbolText>
+                <symbolText>Bøkfjorden:</symbolText>
+                <symbolText>Duration: Until week 41/2019.</symbolText>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription>(1)  Reinøya, immersed rope ashore to the east, no surface marker buoy.</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>30.0848333333333</latitudeDecimal>
+                  <latitudeDegrees>30</latitudeDegrees>
+                  <latitudeMinutes>05</latitudeMinutes>
+                  <latitudeSeconds>305.4</latitudeSeconds>
+                  <longitudeDecimal>69.7891666666667</longitudeDecimal>
+                  <longitudeDegrees>69</longitudeDegrees>
+                  <longitudeMinutes>47</longitudeMinutes>
+                  <longitudeSeconds>2841</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(2)  Sabelskjæret, surface marker buoy with flashing light.</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>30.0846666666667</latitudeDecimal>
+                  <latitudeDegrees>30</latitudeDegrees>
+                  <latitudeMinutes>05</latitudeMinutes>
+                  <latitudeSeconds>304.8</latitudeSeconds>
+                  <longitudeDecimal>69.7375</longitudeDecimal>
+                  <longitudeDegrees>69</longitudeDegrees>
+                  <longitudeMinutes>44</longitudeMinutes>
+                  <longitudeSeconds>2655</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Storegga</area>
+      <region>(T) Norwegian Sea</region>
+      <vicinity>ODAS buoy</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60632</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Temporary</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-06</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Universitetet i Bergen, UiB, 6. september 2019). (KildeID 30760).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts/>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID304"/>
+              <chartRef IDREF="ID308"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Insert</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>A Wavescan research buoy is deployed outside Ålesund in the following position:</symbolText>
+                <symbolText>The buoy is marked with light, character Fl(5) Y 20s.</symbolText>
+                <symbolText>Period: Until May - June 2020.</symbolText>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription/>
+                <positionPoint>
+                  <latitudeDecimal>4.31</latitudeDecimal>
+                  <latitudeDegrees>4</latitudeDegrees>
+                  <latitudeMinutes>18</latitudeMinutes>
+                  <latitudeSeconds>1116</latitudeSeconds>
+                  <longitudeDecimal>62.82</longitudeDecimal>
+                  <longitudeDegrees>62</longitudeDegrees>
+                  <longitudeMinutes>49</longitudeMinutes>
+                  <longitudeSeconds>2952</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Subsurface ODAS</area>
+      <region>(T) Barents Sea</region>
+      <noticeIdentifier>
+        <noticeNumber>60630</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Temporary</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-06</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Institute of Marine Research, Norway, 6. september 2019). (KildeID 30760).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts/>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID505"/>
+              <chartRef IDREF="ID506"/>
+              <chartRef IDREF="ID514"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Insert</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>Institute of Marine Research, Bergen, has deployed seafloor moored scientific instruments in the northern Barents Sea:</symbolText>
+                <symbolText>Duration: Until 1 October 2020.</symbolText>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription>(1)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>35.0581666666667</latitudeDecimal>
+                  <latitudeDegrees>35</latitudeDegrees>
+                  <latitudeMinutes>03</latitudeMinutes>
+                  <latitudeSeconds>209.4</latitudeSeconds>
+                  <longitudeDecimal>77.0825</longitudeDecimal>
+                  <longitudeDegrees>77</longitudeDegrees>
+                  <longitudeMinutes>04</longitudeMinutes>
+                  <longitudeSeconds>297</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(2)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>35.0361666666667</latitudeDecimal>
+                  <latitudeDegrees>35</latitudeDegrees>
+                  <latitudeMinutes>02</latitudeMinutes>
+                  <latitudeSeconds>130.2</latitudeSeconds>
+                  <longitudeDecimal>77.0753333333333</longitudeDecimal>
+                  <longitudeDegrees>77</longitudeDegrees>
+                  <longitudeMinutes>04</longitudeMinutes>
+                  <longitudeSeconds>271.2</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(3)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>34.7623333333333</latitudeDecimal>
+                  <latitudeDegrees>34</latitudeDegrees>
+                  <latitudeMinutes>45</latitudeMinutes>
+                  <latitudeSeconds>2744.4</latitudeSeconds>
+                  <longitudeDecimal>78.3478333333333</longitudeDecimal>
+                  <longitudeDegrees>78</longitudeDegrees>
+                  <longitudeMinutes>20</longitudeMinutes>
+                  <longitudeSeconds>1252.2</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>Isfjorden</area>
+      <region>(T) Svalbard</region>
+      <vicinity>Barentsburg</vicinity>
+      <vicinity>Subsurface ODAS</vicinity>
+      <noticeIdentifier>
+        <noticeNumber>60640</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Temporary</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-10</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>(Universitetet på Svalbard (UNIS), 10. september 2019). (KildeID 30760).</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts/>
+      <contents>
+        <content>
+          <chartCorrectionContent>
+            <chartRefs>
+              <chartRef IDREF="ID505"/>
+              <chartRef IDREF="ID507"/>
+              <chartRef IDREF="ID515"/>
+              <chartRef IDREF="ID523"/>
+              <chartRef IDREF="ID524"/>
+            </chartRefs>
+            <contentNumber>1</contentNumber>
+            <chartcorrectionAction>Insert</chartcorrectionAction>
+            <symbols>
+              <symbol>
+                <symbolText>The University of Svalbard (UNIS) has deployed two instrument rigs in the following positions:</symbolText>
+                <symbolText>Both instruments are anchored to the sea bed and have a steel buoy on top at minimum depth 30m.</symbolText>
+                <symbolText>Duration: Until September 2020.</symbolText>
+              </symbol>
+            </symbols>
+            <externalContents/>
+            <positions>
+              <position>
+                <positionDescription>(1)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>13.5238333333333</latitudeDecimal>
+                  <latitudeDegrees>13</latitudeDegrees>
+                  <latitudeMinutes>31</latitudeMinutes>
+                  <latitudeSeconds>1885.8</latitudeSeconds>
+                  <longitudeDecimal>78.061</longitudeDecimal>
+                  <longitudeDegrees>78</longitudeDegrees>
+                  <longitudeMinutes>03</longitudeMinutes>
+                  <longitudeSeconds>219.6</longitudeSeconds>
+                </positionPoint>
+              </position>
+              <position>
+                <positionDescription>(2)</positionDescription>
+                <positionPoint>
+                  <latitudeDecimal>14.4193333333333</latitudeDecimal>
+                  <latitudeDegrees>14</latitudeDegrees>
+                  <latitudeMinutes>25</latitudeMinutes>
+                  <latitudeSeconds>1509.6</latitudeSeconds>
+                  <longitudeDecimal>78.1253333333333</longitudeDecimal>
+                  <longitudeDegrees>78</longitudeDegrees>
+                  <longitudeMinutes>07</longitudeMinutes>
+                  <longitudeSeconds>451.2</longitudeSeconds>
+                </positionPoint>
+              </position>
+            </positions>
+          </chartCorrectionContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>CHARTS AND UPDATE</area>
+      <region>ATTENTION WHEN USING SECTOR LIGHTS FOR NAVIGATION  ALONG THE NORWEGIAN COAST</region>
+      <noticeIdentifier>
+        <noticeNumber>1769</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-20</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>Kartverket sjødivisjonen</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts/>
+      <contents>
+        <content>
+          <textContent>
+            <chartRefs/>
+            <contentNumber>1</contentNumber>
+            <text>v style="margin-left:40px"&gt;
+      * ATTENTION WHEN USING SECTOR LIGHTS FOR NAVIGATION  ALONG THE NORWEGIAN COAST. CHARTS AND UPDATE.</text>
+          </textContent>
+        </content>
+        <content>
+          <textContent>
+            <chartRefs/>
+            <contentNumber>1</contentNumber>
+            <text>In the period 2019 - 2025, the Norwegian Coastal Administration will be reorganizing the sectors of around 1900 sector lights in compliance with the standard defined by IALA (International Association of Lighthouse Authorities).</text>
+            <text>It is of great importance to study the Notice to Mariners carefully, and that all navigational charts are updated. When a pilot is onboard or the ship is passing through a VTS area, it is important to follow their instructions. For more information and points of contacts in the Norwegian Coastal Administration, please see:</text>
+            <text>&lt;a href="https://kystverket.no/en/EN_Maritime-Services/transition-to-iala-standard/" shape="rect"&gt;https://kystverket.no/en/EN_Maritime-Services/transition-to-iala-standard/&lt;/a&gt;</text>
+          </textContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area/>
+      <region>Practical information regarding Efs Notices</region>
+      <noticeIdentifier>
+        <noticeNumber>1771</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-20</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>Kartverket sjødivisjonen</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts/>
+      <contents>
+        <content>
+          <textContent>
+            <chartRefs/>
+            <contentNumber>1</contentNumber>
+            <text>* Practical information regarding Efs Notices.</text>
+          </textContent>
+        </content>
+        <content>
+          <textContent>
+            <chartRefs/>
+            <contentNumber>1</contentNumber>
+            <text>Depending on the type of Notice, what is to be corrected will normally be highlighted. In Notices regarding sector amendments to lights, the sector lines which are changed will have highlighted text.</text>
+            <text>For example:</text>
+            <text>(4) R 312.5 ° - 336.0 ° In this case, only the highlighted sector line is to be amended. The first one is unchanged.</text>
+            <text>If a new sector is added, or  a sector colour has been changed, both the lines and the colour will be highlighted:</text>
+            <text>(5) G 336.0 ° - 350.0 °</text>
+            <text>If nothing is mentioned about character, it implies that the character is unchanged. If a new object has been established, or character has been changed, the character will be highlighted.</text>
+            <text>Note that tracings are included for all charts in the main chart series and harbour chart series. See &lt;a href="http://kartverket.no/en/EFS/Tracings/" shape="rect"&gt;http://kartverket.no/en/EFS/Tracings/&lt;/a&gt; for more information.</text>
+          </textContent>
+        </content>
+        <content>
+          <textContent>
+            <chartRefs/>
+            <contentNumber>1</contentNumber>
+          </textContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <noticeIdentifier>
+        <noticeNumber>1772</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-20</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>Kartverket sjødivisjonen</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts/>
+      <contents>
+        <content>
+          <textContent>
+            <chartRefs/>
+            <contentNumber>1</contentNumber>
+            <text>Pdf editions of The Norwegian Pilot Guide are published on kartverket.no.</text>
+          </textContent>
+        </content>
+        <content>
+          <textContent>
+            <chartRefs/>
+            <contentNumber>1</contentNumber>
+            <text>All eight books of the Norwegian Pilot Guide series can be downloaded free of charge at &lt;a href="http://www.kartverket.no/en/" shape="rect"&gt;www.kartverket.no/en/&lt;/a&gt;.</text>
+          </textContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area>no/en/efs</area>
+      <region>Search at kartverket</region>
+      <noticeIdentifier>
+        <noticeNumber>1773</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-20</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>Kartverket sjødivisjonen</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts/>
+      <contents>
+        <content>
+          <textContent>
+            <chartRefs/>
+            <contentNumber>1</contentNumber>
+            <text>In the search to find notices to mariners and tracings at kartverket.no/en/efs, there is a malfunction with the  «View In Map button». The map does not show the chart numbers, and therefore users are not able to select chart numbers.</text>
+            <text>An overview of the chart series, divided in chart cells, can be found at &lt;a href="http://www.norgeskart.no/" shape="rect"&gt;www.norgeskart.no&lt;/a&gt;. Chose  «English» language. Then chose  «Overview of Maps». Under «Coverage» you select which chart series you want to see an overview of. Each chart cell contains information about chart number, name, scale, projection, datum and latest edition..</text>
+          </textContent>
+        </content>
+      </contents>
+    </notice>
+    <notice>
+      <area/>
+      <region>Important attachments to the Efs</region>
+      <noticeIdentifier>
+        <noticeNumber>1774</noticeNumber>
+        <sequenceNumber>17</sequenceNumber>
+        <noticeYear>2019</noticeYear>
+        <noticeType>Normal</noticeType>
+      </noticeIdentifier>
+      <noticeDatePublished>2019-09-20</noticeDatePublished>
+      <noticeStatus>Published</noticeStatus>
+      <noticeOriginal>true</noticeOriginal>
+      <noticeOriginalSource>Kartverket sjødivisjonen</noticeOriginalSource>
+      <noticeValidity>Valid</noticeValidity>
+      <charts/>
+      <contents>
+        <content>
+          <textContent>
+            <chartRefs/>
+            <contentNumber>1</contentNumber>
+            <text>Important information regarding the use of Notices to Mariners, maps, quality and information to mariners can be read on http://kartverket.no/en/EFS/Miscellaneous-Notices-to-Mariners/. It is important that seafarers regularly read the attachments, as changes may occur.The attachments will be published in full in the first edition of the Norwegian notices to mariners, Etterretninger for sjøfarende (Efs), every year. The Norwegian Hydrographic Service emphasizes that the complete pdf version of the Efs is the only approved official document. Professional users are responsible for downloading the latest pdf version of the Efs from the Internet service on www.kartverket.no/en/EFS/.</text>
+          </textContent>
+        </content>
+      </contents>
+    </notice>
+  </notices>
+</NoticeToMarinerList>
