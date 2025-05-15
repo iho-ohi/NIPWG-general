@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="Positions" type="Positions"/>
+	<xs:complexType name="Positions">
+		<xs:sequence>
+			<xs:element name="position" type="Position" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="Symbols" type="Symbols"/>
+	<xs:complexType name="Symbols">
+		<xs:sequence>
+			<xs:element name="symbol" type="ChartCorrectionSymbol" minOccurs="0" maxOccurs="2"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="Charts" type="Charts"/>
+	<xs:complexType name="Charts">
+		<xs:sequence>
+			<xs:element name="chartProduct" type="ChartProduct" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="Contents" type="Contents"/>
+	<xs:complexType name="Contents">
+		<xs:sequence>
+			<xs:element name="content" type="Content" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="Notices" type="Notices"/>
+	<xs:complexType name="Notices">
+		<xs:sequence>
+			<xs:element name="notice" type="NoticeToMariner" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="Content" type="Content"/>
+	<xs:complexType name="Content">
+		<xs:sequence>
+			<xs:choice minOccurs="1" maxOccurs="1">
+				<xs:element name="chartCorrectionContent" type="ChartCorrectionContent" minOccurs="1" maxOccurs="1"/>
+				<xs:element name="textContent" type="TextContent" minOccurs="1" maxOccurs="1"/>
+				<xs:element name="graphicContent" type="GraphicContent" minOccurs="1" maxOccurs="1"/>
+			</xs:choice>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="Panels" type="Panels"/>
+	<xs:complexType name="Panels">
+		<xs:sequence>
+			<xs:element name="chartPanel" type="ChartPanel" minOccurs="1" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="ExternalContents" type="ExternalContents"/>
+	<xs:complexType name="ExternalContents">
+		<xs:sequence>
+			<xs:element name="externalContent" type="ExternalContent" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="symbolAlternativeProvision" type="symbolAlternativeProvision"/>
+	<xs:complexType name="symbolAlternativeProvision">
+		<xs:sequence>
+			<xs:choice minOccurs="1" maxOccurs="1">
+				<xs:element name="trueTypeFontSymbol" type="AlternativeSymbolTtf" minOccurs="1" maxOccurs="1"/>
+				<xs:element name="fileBasedSymbol" type="AlternativeSymbolFile" minOccurs="1" maxOccurs="1"/>
+			</xs:choice>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="ChartRef" type="ChartRef"/>
+	<xs:complexType name="ChartRef">
+		<xs:sequence minOccurs="1" maxOccurs="1"/>
+		<xs:attribute name="IDREF" use="optional" type="xs:IDREF"/>
+	</xs:complexType>
+	<xs:element name="ChartPanelsRef" type="ChartPanelsRef"/>
+	<xs:complexType name="ChartPanelsRef">
+		<xs:sequence>
+			<xs:element name="chartRef" type="ChartRef" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:attribute name="GlobalAtt1" type="xs:IDREF"/>
+	<xs:simpleType name="chartCorrectionActionEnum">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Insert"/>
+			<xs:enumeration value="Delete"/>
+			<xs:enumeration value="Move"/>
+			<xs:enumeration value="Amend"/>
+			<xs:enumeration value="Replace"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:element name="Position" type="Position"/>
+	<xs:complexType name="Position">
+		<xs:annotation>
+			<xs:documentation>Indication of one position. Normally latitude and longitude is given, but a position might consist of only a description. </xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element name="positionDescription" type="xs:string" minOccurs="0" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>Additional text to describe or explain the current position.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="positionPoint" type="latlonPoint" minOccurs="0" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>Structure to indicate latitude and longitude both machine readable and human readable as written by producer agency using degrees minutes and optionally seconds.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:simpleType name="noticeTypeEnum">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Normal"/>
+			<xs:enumeration value="Temporary"/>
+			<xs:enumeration value="Preliminary"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="noticeStatusEnum">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Published"/>
+			<xs:enumeration value="Cancelled"/>
+			<xs:enumeration value="Deactivated"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:element name="latlonPoint" type="latlonPoint"/>
+	<xs:complexType name="latlonPoint">
+		<xs:annotation>
+			<xs:documentation>One position, consisting of a latitude and a longitude.</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element name="latitudeDecimal" type="xs:float" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>Latitude as a decimal value. Negative value indicates Southern hemisphere.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="latitudeDegrees" type="xs:int" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>Latitude degrees as a positive integer.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="latitudeMinutes" type="xs:string" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>Latitude minutes as string. examples: "00", "00.00", "00.000"</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="latitudeSeconds" type="xs:string" minOccurs="0" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>Latitude seconds as string. Examples "00", "00.0", "00.000"</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="longitudeDecimal" type="xs:float" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>Longitude as decimal value. Negative values indicate west.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="longitudeDegrees" type="xs:int" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>Longitude degrees as a positive integer.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="longitudeMinutes" type="xs:string" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>Longitude minutes as string. Examples: "00", "00.0", "00.000"</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="longitudeSeconds" type="xs:string" minOccurs="0" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>Longitude seconds as string. Examples: "00", "00.0", "00.000"</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="ChartCorrectionSymbol" type="ChartCorrectionSymbol"/>
+	<xs:complexType name="ChartCorrectionSymbol">
+		<xs:annotation>
+			<xs:documentation>A structure consisting of the symbol, additional text and instructions for the end-user. Alternative ways of describing the symbol exists.</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element name="symbolMRN" type="xs:string" minOccurs="0" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>A MRN defining a symbol uniquely. This MRN is not yet available (as of 2018), but intended to be the recommended way to define the symbol in the future.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="alternativeProvision" type="symbolAlternativeProvision" minOccurs="0" maxOccurs="1"/>
+			<xs:element name="symbolText" type="xs:string" minOccurs="0" maxOccurs="unbounded">
+				<xs:annotation>
+					<xs:documentation>Text needed along with the symbol, that is to be put on the chart.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="correctionInstruction" type="xs:string" minOccurs="0" maxOccurs="unbounded">
+				<xs:annotation>
+					<xs:documentation>An instruction to show the mariner.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="noticeIdentifier" type="noticeIdentifier"/>
+	<xs:complexType name="noticeIdentifier">
+		<xs:annotation>
+			<xs:documentation>The complex attribute identifies a notice uniquely within the domain of the specified producing agency. 
+
+The combination of noticeNumber, sequenceNumber and noticeYear must be unique within the domain of the producing agency.</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element name="noticeNumber" type="xs:int" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>The message number as used by the producing agency.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="sequenceNumber" type="xs:int" minOccurs="0" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>Additional number indicating the week, month, or booklet number needed additional to the messageNumber (and Year), in order to make the noticeIdentification unique.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="noticeYear" type="xs:int" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>The year of publication.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="noticeType" type="noticeTypeEnum" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>Message type</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="ExternalContent" type="ExternalContent"/>
+	<xs:complexType name="ExternalContent">
+		<xs:sequence>
+			<xs:element name="externalContentType" type="externalContentTypeEnum" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>The content type of the external content.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="externalContentDescriptoin" type="xs:string" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>Description / title of the external content.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="externalContentFileFormat" type="externalContentFileFormatEnum" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>File format of the external content.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="externalContentfileLocator" type="xs:string" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>The location of the external content</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="AlternativeSymbol" type="AlternativeSymbol"/>
+	<xs:complexType name="AlternativeSymbol" abstract="true">
+		<xs:annotation>
+			<xs:documentation>The alternative symbol description is used additional to or instead of the MRN to uniquely identify a symbol.</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element name="symbolDescription" type="xs:string" minOccurs="0" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>Symbol description is a human readable description of the symbol.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="NoticeToMarinerList" type="NoticeToMarinerList"/>
+	<xs:complexType name="NoticeToMarinerList">
+		<xs:annotation>
+			<xs:documentation>Any dataset containing Notices.</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element name="languageISO639-3" type="xs:string" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>Language must be English.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="countryISO3166-1" type="xs:string" minOccurs="1" maxOccurs="1"/>
+			<xs:element name="producingAgencyS62" type="xs:int" minOccurs="1" maxOccurs="1"/>
+			<xs:element name="creationDate" type="xs:date" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>Creation date of the dataset.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="notices" type="Notices" minOccurs="1" maxOccurs="1"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="NoticeToMariner" type="NoticeToMariner"/>
+	<xs:complexType name="NoticeToMariner">
+		<xs:annotation>
+			<xs:documentation>The class NoticeToMariner holds one single notice, as identified by a unique combination of a number, optional sequence and year.</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element name="area" type="xs:string" minOccurs="0" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>The area.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="region" type="xs:string" minOccurs="0" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>The region.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="vicinity" type="xs:string" minOccurs="0" maxOccurs="unbounded">
+				<xs:annotation>
+					<xs:documentation>The vicinity.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="noticeIdentifier" type="noticeIdentifier" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>The unique identification of a notice, following IHO S-4 conventions of numbering.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="noticeDatePublished" type="xs:date" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>Publication date of the notice.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="noticeStatus" type="noticeStatusEnum" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>Status of notice.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="noticeOriginal" type="xs:boolean" minOccurs="1" maxOccurs="1"/>
+			<xs:element name="noticeOriginalSource" type="xs:string" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>The original source of the data.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="noticeValidity" type="xs:string" minOccurs="0" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>Validity period of notice as text. Examples are "July 2018", "Open water season", "Until further notice"</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="noticeRefersToNotice" type="noticeIdentifier" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="noticeCancelsNotice" type="noticeIdentifier" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="charts" type="Charts" minOccurs="1" maxOccurs="1"/>
+			<xs:element name="contents" type="Contents" minOccurs="1" maxOccurs="1"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="NoticeContent" type="NoticeContent"/>
+	<xs:complexType name="NoticeContent">
+		<xs:annotation>
+			<xs:documentation>The content of a notice. Each notice could have any amount of content.</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element name="chartRefs" type="ChartPanelsRef" minOccurs="1" maxOccurs="1"/>
+			<xs:element name="contentNumber" type="xs:int" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>The order number of the content within the notice. Content is ordered to assist correct display.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="ChartCorrectionContent" type="ChartCorrectionContent"/>
+	<xs:complexType name="ChartCorrectionContent">
+		<xs:complexContent>
+			<xs:extension base="NoticeContent">
+				<xs:sequence>
+					<xs:element name="chartcorrectionAction" type="chartCorrectionActionEnum" minOccurs="1" maxOccurs="1">
+						<xs:annotation>
+							<xs:documentation>The S-4 action.</xs:documentation>
+						</xs:annotation>
+					</xs:element>
+					<xs:element name="symbols" type="Symbols" minOccurs="1" maxOccurs="1"/>
+					<xs:element name="externalContents" type="ExternalContents" minOccurs="1" maxOccurs="1"/>
+					<xs:element name="positions" type="Positions" minOccurs="1" maxOccurs="1"/>
+				</xs:sequence>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:element name="TextContent" type="TextContent"/>
+	<xs:complexType name="TextContent">
+		<xs:annotation>
+			<xs:documentation>Simple text content for miscellaneous information additional to or instead of ChartCorrectionContent. </xs:documentation>
+		</xs:annotation>
+		<xs:complexContent>
+			<xs:extension base="NoticeContent">
+				<xs:sequence>
+					<xs:element name="text" type="xs:string" minOccurs="1" maxOccurs="1"/>
+				</xs:sequence>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:element name="GraphicContent" type="GraphicContent"/>
+	<xs:complexType name="GraphicContent">
+		<xs:annotation>
+			<xs:documentation>Image content to display with the notice.</xs:documentation>
+		</xs:annotation>
+		<xs:complexContent>
+			<xs:extension base="NoticeContent">
+				<xs:sequence>
+					<xs:element name="description" type="xs:string" minOccurs="0" maxOccurs="1">
+						<xs:annotation>
+							<xs:documentation>Description of the Graphic file.</xs:documentation>
+						</xs:annotation>
+					</xs:element>
+					<xs:element name="graphicContentFileFormat" type="graphicContentFileFormatEnum" minOccurs="1" maxOccurs="1"/>
+					<xs:element name="fileLocator" type="xs:string" minOccurs="1" maxOccurs="unbounded"/>
+				</xs:sequence>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:element name="ChartPanel" type="ChartPanel"/>
+	<xs:complexType name="ChartPanel">
+		<xs:annotation>
+			<xs:documentation>A single chart panel / image.</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element name="panelName" type="xs:string" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>The title, identification or name used to identify the panel within the product.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="horizontalDatumEPSG" type="xs:int" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>The horizontal datum of the chart panel as an EPSG-code;</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+		</xs:sequence>
+		<xs:attribute name="ID" use="optional" type="xs:ID"/>
+	</xs:complexType>
+	<xs:element name="ChartProduct" type="ChartProduct"/>
+	<xs:complexType name="ChartProduct">
+		<xs:annotation>
+			<xs:documentation>A single chart product, that could contain one or several chart panels (chart images).</xs:documentation>
+		</xs:annotation>
+		<xs:sequence>
+			<xs:element name="productTitle" type="xs:string" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>The national name, number or title of the chart.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="productIntNumber" type="xs:int" minOccurs="0" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>The international (INT) number of the chart, if available. </xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="productEditionDate" type="xs:date" minOccurs="1" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>The product edition date as set by the producing agency.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="productEditionName" type="xs:string" minOccurs="0" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>Product edition id, name or other identification, if used additionally to edition date.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="productLastCorrection" type="noticeIdentifier" minOccurs="0" maxOccurs="1">
+				<xs:annotation>
+					<xs:documentation>The last correction applied to this product.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="panels" type="Panels" minOccurs="1" maxOccurs="1"/>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:simpleType name="symbolFormatEnum">
+		<xs:annotation>
+			<xs:documentation>The allowed file formats for file-based symbols</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="PNG"/>
+			<xs:enumeration value="SVG"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="externalContentTypeEnum">
+		<xs:annotation>
+			<xs:documentation>Allowed content types of external content.</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="block"/>
+			<xs:enumeration value="table"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:simpleType name="externalContentFileFormatEnum">
+		<xs:annotation>
+			<xs:documentation>Allowed file  formats of external content. </xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="PDF"/>
+			<xs:enumeration value="TIFF"/>
+			<xs:enumeration value="SVG"/>
+			<xs:enumeration value="PNG"/>
+		</xs:restriction>
+	</xs:simpleType>
+	<xs:element name="AlternativeSymbolTtf" type="AlternativeSymbolTtf"/>
+	<xs:complexType name="AlternativeSymbolTtf">
+		<xs:annotation>
+			<xs:documentation>A symbol in TrueTypeFont. The font must be publicly available. </xs:documentation>
+		</xs:annotation>
+		<xs:complexContent>
+			<xs:extension base="AlternativeSymbol">
+				<xs:sequence>
+					<xs:element name="trueTypeFontFile" type="xs:string" minOccurs="1" maxOccurs="1">
+						<xs:annotation>
+							<xs:documentation>The location of the TTF- file to use.</xs:documentation>
+						</xs:annotation>
+					</xs:element>
+					<xs:element name="trueTypeFontName" type="xs:string" minOccurs="1" maxOccurs="1">
+						<xs:annotation>
+							<xs:documentation>The name of the font.</xs:documentation>
+						</xs:annotation>
+					</xs:element>
+					<xs:element name="trueTypeFontSize" type="xs:string" minOccurs="0" maxOccurs="1">
+						<xs:annotation>
+							<xs:documentation>The size attribute to use.</xs:documentation>
+						</xs:annotation>
+					</xs:element>
+					<xs:element name="trueTypeFontColor" type="xs:string" minOccurs="0" maxOccurs="1">
+						<xs:annotation>
+							<xs:documentation>The font color attribute.</xs:documentation>
+						</xs:annotation>
+					</xs:element>
+					<xs:element name="trueTypeFontText" type="xs:string" minOccurs="1" maxOccurs="1">
+						<xs:annotation>
+							<xs:documentation>The character(s) used to form the symbol.</xs:documentation>
+						</xs:annotation>
+					</xs:element>
+				</xs:sequence>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:element name="AlternativeSymbolFile" type="AlternativeSymbolFile"/>
+	<xs:complexType name="AlternativeSymbolFile">
+		<xs:complexContent>
+			<xs:extension base="AlternativeSymbol">
+				<xs:sequence>
+					<xs:element name="symbolFormat" type="symbolFormatEnum" minOccurs="1" maxOccurs="1"/>
+					<xs:element name="fileLocator" type="xs:string" minOccurs="1" maxOccurs="1"/>
+				</xs:sequence>
+			</xs:extension>
+		</xs:complexContent>
+	</xs:complexType>
+	<xs:simpleType name="graphicContentFileFormatEnum">
+		<xs:annotation>
+			<xs:documentation>Allowed file formats for GraphicContent. (Assumed to be displayed inline with the notice or as links).</xs:documentation>
+		</xs:annotation>
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="JPEG"/>
+			<xs:enumeration value="PNG"/>
+		</xs:restriction>
+	</xs:simpleType>
+</xs:schema>

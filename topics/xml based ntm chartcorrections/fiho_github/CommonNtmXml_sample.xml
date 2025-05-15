@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NoticeToMarinerList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:noNamespaceSchemaLocation="CommonNtmXml.xsd">
+	<languageISO639-3>EN</languageISO639-3>
+	<countryISO3166-1>FI</countryISO3166-1>
+	<producingAgencyS62>160</producingAgencyS62>
+	<creationDate>2018-10-03</creationDate>
+	<notices>
+		<notice>
+			<noticeIdentifier>
+				<noticeNumber>100</noticeNumber>
+				<sequenceNumber>12</sequenceNumber>
+				<noticeYear>2018</noticeYear>
+				<noticeType>Temporary</noticeType>
+			</noticeIdentifier>
+			<noticeDatePublished>2018-10-02</noticeDatePublished>
+			<noticeStatus>Published</noticeStatus>
+			<noticeOriginal>true</noticeOriginal>
+			<noticeOriginalSource>FTA, Helsinki</noticeOriginalSource>
+			<!-- ADD: All charts are added once to the beginning of the notice -->
+			<charts>
+				<chartProduct>
+					<productTitle>57</productTitle>
+					<productIntNumber>9876</productIntNumber>
+					<productEditionDate>2016-01-01</productEditionDate>
+					<productEditionName>4</productEditionName>
+					<productLastCorrection>
+						<noticeNumber>100</noticeNumber>
+						<noticeYear>2018</noticeYear>
+						<noticeType>Temporary</noticeType>
+					</productLastCorrection>
+					<panels>
+						<chartPanel  ID="FI9876_1">
+							<panelName>57.1</panelName>
+							<horizontalDatumEPSG>4326</horizontalDatumEPSG>
+						</chartPanel>
+						<chartPanel ID="FI9876_2">
+							<panelName>57.2</panelName>
+							<horizontalDatumEPSG>4326</horizontalDatumEPSG>
+						</chartPanel>
+					</panels>
+				</chartProduct>
+			</charts>
+			<contents>
+				<content>
+					<chartCorrectionContent>
+					   <!-- ADD: Chart PANELS are referred for each content -->
+					   <chartRefs>
+							<chartRef IDREF="FI9876_1"/>
+							<chartRef IDREF="FI9876_2"/>
+						</chartRefs>
+						<contentNumber>1</contentNumber>
+						<chartcorrectionAction>Insert</chartcorrectionAction>
+						<symbols>
+							<symbol>
+								<alternativeProvision>
+									<fileBasedSymbol>
+										<symbolFormat>PNG</symbolFormat>
+										<fileLocator>http://www.example.com/symbol001.png</fileLocator>
+									</fileBasedSymbol>
+								</alternativeProvision>
+							</symbol>
+							<symbol>
+								<alternativeProvision>
+									<trueTypeFontSymbol>
+										<trueTypeFontFile>http://www.example.com/customfont.ttf</trueTypeFontFile>
+										<trueTypeFontName>HO_custom</trueTypeFontName>
+										<trueTypeFontText>xyz</trueTypeFontText>
+									</trueTypeFontSymbol>
+								</alternativeProvision>
+							</symbol>
+						</symbols>
+						<externalContents/>
+						<positions>
+							<position>
+								<positionDescription>First position</positionDescription>
+								<positionPoint>
+									<latitudeDecimal>55.5</latitudeDecimal>
+									<latitudeDegrees>55</latitudeDegrees>
+									<latitudeMinutes>"30.00"</latitudeMinutes>
+									<longitudeDecimal>21.0</longitudeDecimal>
+									<longitudeDegrees>21</longitudeDegrees>
+									<longitudeMinutes>"00.00"</longitudeMinutes>
+								</positionPoint>
+							</position>
+						</positions>
+					</chartCorrectionContent>
+				</content>
+			</contents>
+		</notice>
+	</notices>
+</NoticeToMarinerList>
