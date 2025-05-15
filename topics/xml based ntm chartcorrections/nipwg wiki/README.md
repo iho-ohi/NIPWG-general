@@ -60,7 +60,7 @@ The data model should allow references from one correction to multiple charts...
 
 ### UML diagram
 
-**Diagram:** ![UML Diagram](File:UML_NtM_conceptual_structure.png)
+**Diagram:** ![UML Diagram](UML_NtM_conceptual_structure.png)
 
 ### NoticeContent Types
 
