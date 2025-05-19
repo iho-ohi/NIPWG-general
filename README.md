@@ -42,6 +42,9 @@ https://github.com/iho-ohi/S-123-Product-Specification-Development/
 ### S-125
 https://github.com/iho-ohi/S-125-Product-Specification-Development/
 
+### S-126
+https://github.com/iho-ohi/S-126-Product-Specification-Development/
+
 ### S-127
 https://github.com/iho-ohi/S-127-Product-Specification-Development/
 
