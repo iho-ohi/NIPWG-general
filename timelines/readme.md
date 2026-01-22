@@ -9,9 +9,9 @@
 | 16.1.2026 | Fri | 3 | S-131 RELEASE | Done |  |  |
 | 17.1.2026 | Sat | 3 |  |  |  |  |
 | 18.1.2026 | Sun | 3 |  |  |  |  |
-| 19.1.2026 | Mon | 4 | S-123 RELEASE | Estimated |  |  |
-| 20.1.2026 | Tue | 4 |  |  |  |  |
-| 21.1.2026 | Wed | 4 | S-122 & S-127 RELEASE | Planned |  |  |
+| 19.1.2026 | Mon | 4 |  |  |  |  |
+| 20.1.2026 | Tue | 4 | S-123 & S-127 RELEASE | Done |  |  |
+| 21.1.2026 | Wed | 4 | S-122  RELEASE | Done |  |  |
 | 22.1.2026 | Thu | 4 | NCWG PRESENTATION | Planned |  |  |
 | 23.1.2026 | Fri | 4 | NIPWG LETTER | Planned | DQWG- request | NCWG- request |
 | 24.1.2026 | Sat | 4 |  |  |  |  |
