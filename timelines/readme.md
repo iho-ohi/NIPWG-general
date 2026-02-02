@@ -12,11 +12,11 @@
 | 19.1.2026 | Mon | 4 |  |  |  |  |
 | 20.1.2026 | Tue | 4 | S-123 & S-127 RELEASE | Done |  |  |
 | 21.1.2026 | Wed | 4 | S-122  RELEASE | Done |  |  |
-| 22.1.2026 | Thu | 4 | NCWG PRESENTATION | Planned |  |  |
-| 23.1.2026 | Fri | 4 |  | Planned | DQWG- request | NCWG- request |
+| 22.1.2026 | Thu | 4 |  |  |  |  |
+| 23.1.2026 | Fri | 4 |  |  |  |  |
 | 24.1.2026 | Sat | 4 |  |  |  |  |
 | 25.1.2026 | Sun | 4 |  |  |  |  |
-| 26.1.2026 | Mon | 5 | NIPWG LETTER | | | |
+| 26.1.2026 | Mon | 5 | NIPWG LETTER | Done | | |
 | 27.1.2026 | Tue | 5 | NIPWG review 1/4 |  |  |  |
 | 28.1.2026 | Wed | 5 |  |  |  |  |
 | 29.1.2026 | Thu | 5 |  |  |  |  |
