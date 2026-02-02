@@ -44,7 +44,7 @@
 | 20.2.2026 | Fri | 8 |  |  |  |  |
 | 21.2.2026 | Sat | 8 |  |  |  |  |
 | 22.2.2026 | Sun | 8 |  |  |  |  |
-| 23.2.2026 | Mon | 9 | Compile report of WG comments | DQWG review 4/4 |  | NCWG review 4/6 |
+| 23.2.2026 | Mon | 9 | Compile report of WG comments |  | DQWG review 4/4 | NCWG review 4/6 |
 | 24.2.2026 | Tue | 9 |  |  |  |  |
 | 25.2.2026 | Wed | 9 |  |  |  |  |
 | 26.2.2026 | Thu | 9 |  |  |  |  |
